@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import "./header.css"
 import LOGO from "../../assets/icons/iconoHome.png"
 
