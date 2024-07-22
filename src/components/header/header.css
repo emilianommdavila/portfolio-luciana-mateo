@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'SingleDay';
+    src: url('../../assets/Fonts/SingleDay-Regular.ttf') format('woff2'),
+         url('../../assets/Fonts/SingleDay-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Solway';
+    src: url('../../assets/Fonts/Solway-Regular.ttf') format('woff2'),
+         url('../../assets/Fonts/Solway-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.header {
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+.nav_name_name{
+    font-family: "SingleDay";
+    font-size: 80;
+}
+
+.nav_name_title{
+    font-family: "Solway";
+    font-size: 80;
+}
+
+
+
+.nav_logo_image{
+    width: 150px;
+    height: 150px;
+}
+.nav_logo{
+    display: flex;
+    align-self: row;
+    justify-content: space-between;
+    width: 40%;
+    color: black;
+}
+
+.nav_menu{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav_item {
+    border: 3px #687FDD solid;
+    border-radius: 25px; /* Ajusta el valor para hacer los bordes más o menos redondeados */
+    margin: 0 10px;
+    padding: 10px 20px; /* Añade padding para dar espacio interno a los botones */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav_item a {
+    text-decoration: none;
+    color: #000; /* Color del texto */
+    font-weight: bold;
+}
