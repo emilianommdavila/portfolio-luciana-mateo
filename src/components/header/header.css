@@ -87,7 +87,7 @@
 }
 
 .hamburger-menu.open .bar:nth-child(1) {
-    transform: rotate(-45deg) translate(-5px, 6px);
+    transform: rotate(-45deg) translate(-7px, 8px);
 }
 
 .hamburger-menu.open .bar:nth-child(2) {
@@ -95,7 +95,7 @@
 }
 
 .hamburger-menu.open .bar:nth-child(3) {
-    transform: rotate(45deg) translate(-5px, -6px);
+    transform: rotate(45deg) translate(-7px, -8px);
 }
 
 /* Estilos para mostrar/ocultar el menú en dispositivos pequeños */
@@ -113,7 +113,7 @@
         align-self: center;
         position: absolute;
         left: 30px;
-        top: 35px;
+        top: 28px;
         background-color: #687FDD;
         border-radius: 15px;
         padding: 5px;
@@ -132,7 +132,7 @@
     .nav_logo {
         order: 0;
         position: absolute;
-        top: 5px;
+        top: 10px;
         left: 50%;
         width: 50%;
         max-width: 200px;
@@ -143,7 +143,7 @@
         color: #000;
         font-weight: bold;
         font-family: "Solway";
-        font-size: 20px;
+        font-size: 15px;
     }
 
 
@@ -151,13 +151,15 @@
         width: 60px;
         height: 60px;
     }
+
+ 
     .nav_menu {
         display: none;
         position: absolute;
         flex-direction: column;
         background-color: #D6D0B6;
-        width: 60%;
-        align-items: center;
+        width: 40%;
+        align-items:flex-start;
         border-radius: 10px;
     }
     .nav_item {
@@ -168,6 +170,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+
     }
 
 
