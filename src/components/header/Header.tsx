@@ -1,8 +1,14 @@
-//import React from 'react'
-import "./header.css"
-import LOGO from "../../assets/icons/iconoHome.png"
+import { useState } from 'react';
+import "./header.css";
+import LOGO from "../../assets/icons/iconoHome.png";
 
 const Header = () => {
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
+
   return (
     <header className='header'>
       <a href="#home" className='nav_logo'>
@@ -13,24 +19,30 @@ const Header = () => {
         </div>
       </a>
 
-      <nav className='nav'>
+      <div className={`hamburger-menu ${isMenuOpen ? "open" : ""}`} onClick={toggleMenu}>
+        <div className="bar"></div>
+        <div className="bar"></div>
+        <div className="bar"></div>
+      </div>
+
+      <nav className={`nav ${isMenuOpen ? "show-menu" : ""}`}>
         <div className='nav_menu'>
           <ul className='nav_item'>
-            <a href="">Sobre mi</a>
+            <a href="#about">Sobre mi</a>
           </ul>
           <ul className='nav_item'>
-            <a href="">Habilidades</a>
+            <a href="#skills">Habilidades</a>
           </ul>
           <ul className='nav_item'>
-            <a href="">Proyectos</a>
+            <a href="#projects">Proyectos</a>
           </ul>
           <ul className='nav_item'>
-            <a href="">Contacto</a>
+            <a href="#contact">Contacto</a>
           </ul>
         </div>
       </nav>
     </header>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

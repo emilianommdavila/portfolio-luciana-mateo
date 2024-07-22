@@ -1,3 +1,4 @@
+/* Estilos generales */
 @font-face {
     font-family: 'SingleDay';
     src: url('../../assets/Fonts/SingleDay-Regular.ttf') format('woff2'),
@@ -24,23 +25,22 @@
     padding: 10px 20px;
 }
 
-.nav_name_name{
+.nav_name_name {
     font-family: "SingleDay";
     font-size: 60px;
 }
 
-.nav_name_title{
+.nav_name_title {
     font-family: "Solway";
     font-size: 100;
 }
 
-
-
-.nav_logo_image{
+.nav_logo_image {
     width: 100px;
     height: 100px;
 }
-.nav_logo{
+
+.nav_logo {
     display: flex;
     align-self: row;
     justify-content: space-between;
@@ -49,16 +49,16 @@
     color: black;
 }
 
-.nav_menu{
+.nav_menu {
     display: flex;
     flex-direction: row;
 }
 
 .nav_item {
     border: 3px #687FDD solid;
-    border-radius: 25px; /* Ajusta el valor para hacer los bordes más o menos redondeados */
+    border-radius: 25px;
     margin: 0 10px;
-    padding: 10px 20px; /* Añade padding para dar espacio interno a los botones */
+    padding: 10px 20px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -66,7 +66,125 @@
 }
 
 .nav_item a {
-    color: #000; 
+    color: #000;
     font-weight: bold;
     font-family: "Solway";
+}
+
+/* Estilos para el menú hamburguesa */
+.hamburger-menu {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger-menu .bar {
+    width: 25px;
+    height: 3px;
+    background-color: black;
+    margin: 4px 0;
+    transition: 0.4s;
+}
+
+.hamburger-menu.open .bar:nth-child(1) {
+    transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.hamburger-menu.open .bar:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger-menu.open .bar:nth-child(3) {
+    transform: rotate(45deg) translate(-5px, -6px);
+}
+
+/* Estilos para mostrar/ocultar el menú en dispositivos pequeños */
+@media (max-width: 768px) {
+    .header {
+        position: relative;
+        justify-content: space-between;
+        background-color: #CDCCCC;
+        height: 80px;
+    }
+
+    .hamburger-menu {
+        display: flex;
+        order: 1;
+        align-self: center;
+        position: absolute;
+        left: 30px;
+        top: 35px;
+        background-color: #687FDD;
+        border-radius: 15px;
+        padding: 5px;
+        padding-left: 7px;
+        padding-right: 7px;
+    }
+
+    
+    .hamburger-menu .bar {
+  
+        background-color: #f3f4f8;
+        border-radius: 2px;
+       
+    }
+
+    .nav_logo {
+        order: 0;
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        width: 50%;
+        max-width: 200px;
+        transform: translateX(-50%);
+    }
+
+    .nav_item a {
+        color: #000;
+        font-weight: bold;
+        font-family: "Solway";
+        font-size: 20px;
+    }
+
+
+    .nav_logo_image{
+        width: 60px;
+        height: 60px;
+    }
+    .nav_menu {
+        display: none;
+        position: absolute;
+        flex-direction: column;
+        background-color: #D6D0B6;
+        width: 60%;
+        align-items: center;
+        border-radius: 10px;
+    }
+    .nav_item {
+        border: 0px;
+        margin: 0 10px;
+        padding: 10px 20px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .nav.show-menu .nav_menu {
+        position: absolute;
+        display: flex;
+        left: 20px;
+        top: 90px;
+        order: 2;
+    }
+
+   
+
+    .nav_name_name {
+        font-size: 20px;
+    }
+    .nav_name_title{
+        font-size: 10px;
+    }
 }
