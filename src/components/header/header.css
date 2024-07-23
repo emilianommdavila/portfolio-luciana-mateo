@@ -223,6 +223,7 @@
         left: 20px;
         top: 90px;
         order: 2;
+        max-width: 150px;
     }
 
    
