@@ -28,11 +28,14 @@
 .nav_name_name {
     font-family: "SingleDay";
     font-size: 60px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    margin-left: 5px;
 }
 
 .nav_name_title {
     font-family: "Solway";
-    font-size: 100;
+    font-size: 20px;
 }
 
 .nav_logo_image {
@@ -98,8 +101,48 @@
     transform: rotate(45deg) translate(-7px, -8px);
 }
 
+
+
+@media (max-width: 1110px) {
+
+    .nav_name_name{
+        font-size: 50px;
+    }
+
+    .nav_name_title {
+        font-size: 20px;
+    }
+    
+}
+
+@media (max-width: 975px) {
+
+    .nav_name_name{
+        font-size: 40px;
+    }
+
+    .nav_name_title {
+        font-size: 20px;
+    }
+    .nav_item {
+        border: 3px #687FDD solid;
+        border-radius: 35px;
+        margin: 0 5px;
+        padding: 5px 10px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
+
+
 /* Estilos para mostrar/ocultar el menú en dispositivos pequeños */
-@media (max-width: 768px) {
+
+
+
+@media (max-width: 836px) {
     .header {
         position: relative;
         justify-content: space-between;
@@ -134,8 +177,8 @@
         position: absolute;
         top: 10px;
         left: 50%;
-        width: 50%;
-        max-width: 200px;
+        width: 80%;
+        max-width: 325px;
         transform: translateX(-50%);
     }
 
@@ -148,8 +191,8 @@
 
 
     .nav_logo_image{
-        width: 60px;
-        height: 60px;
+        width: 80px;
+        height: 80px;
     }
 
  
@@ -185,9 +228,51 @@
    
 
     .nav_name_name {
-        font-size: 20px;
+        font-size: 30px;
     }
     .nav_name_title{
-        font-size: 10px;
+        font-size: 15px;
     }
 }
+
+
+@media (max-width: 460px) {
+    .nav_logo_image{
+        width: 60px;
+        height: 60px;
+    }
+    
+    .nav_logo{
+        max-width: 325px;
+        width: 50%;
+    }
+    
+    
+    .nav_name_name {
+        font-size: 25px;
+    }
+    .nav_name_title{
+        font-size: 15px;
+    }
+    }
+    
+
+    @media (max-width: 380px) {
+        .nav_logo_image{
+            width: 60px;
+            height: 60px;
+        }
+        
+        .nav_logo{
+            max-width: 325px;
+            width: 50%;
+        }
+        
+        
+        .nav_name_name {
+            font-size: 20px;
+        }
+        .nav_name_title{
+            font-size: 10px;
+        }
+        }
