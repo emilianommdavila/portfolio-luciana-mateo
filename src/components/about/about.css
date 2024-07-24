@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'Solway';
+    src: url('../../assets/Fonts/Solway-Regular.ttf') format('woff2'),
+         url('../../assets/Fonts/Solway-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Solway';
+    src: url('../../assets/Fonts/Solway-Bold.ttf') format('woff2'),
+         url('../../assets/Fonts/Solway-Bold.ttf') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
+
+.about{
+    height: 70%;
+    color: black;
+    font-family: "Solway";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.photo{
+    width: 80%;
+    margin-left: 10em;
+    min-width: 150px;
+}
+
+.aboutPhoto{
+    width: 100%;
+    height: 100%;
+}
+
+.location{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-height: 20px;
+    margin-bottom: 20px;
+}
+
+.locationIcon{
+    width: 15px;
+    margin-right: 10px;
+}
+
+.textAbout{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.description{
+    width: 80%;
+}
+
+.descriptionText{
+   text-align: start;
+}
+
+.invitation{
+    margin-top: 4em;
+    color: #042FDA ;
+}
+
+
+
+@media (max-width: 836px) {
+
+ 
+    .about{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 6em;
+        width: 100%;
+    }
+
+    .photo{
+        width: 40%;
+        margin-left: 0em;
+        min-width: 50px;
+    }
+
+    .descriptionText{
+        text-align: center;
+     }
+    
+}

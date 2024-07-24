@@ -15,6 +15,15 @@
     font-style: normal;
 }
 
+
+@font-face {
+    font-family: 'Solway';
+    src: url('../../assets/Fonts/Solway-Bold.ttf') format('woff2'),
+         url('../../assets/Fonts/Solway-Bold.ttf') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
+
 .header {
     top: 0;
     left: 0;
@@ -23,6 +32,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
+    height: 20%;
 }
 
 .nav_name_name {
@@ -118,7 +128,7 @@
     
 }
 
-@media (max-width: 975px) {
+@media (max-width: 990px) {
 
  
     .nav_name_name{
