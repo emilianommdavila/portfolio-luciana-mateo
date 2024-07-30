@@ -3,5 +3,63 @@
         "location": "Mendoza, Argentina",
         "aboutMe": "¡Hola! Mi nombre es Luciana Mateo y estoy recientemente graduada en la Tecnicatura Universitaria en Diseño y Animación Digital de la Universidad Siglo 21. Tengo 24 años y estoy entusiasmada por encontrar mi primera experiencia laboral en el campo. Me apasiona crear y dar vida a ideas a través del arte digital, y estoy ansiosa por aplicar mis habilidades y aprender en un entorno profesional.",
         "invitation":"¡Te invito a explorar mis trabajos!"
-    }
+    },
+    "projects":[
+        {
+            "name":"Sin Fin Cafetero",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/6aLPqFE.png",
+            "content":[
+                "https://imgur.com/GDKs6yN.gif","https://i.imgur.com/qeOHvOE.png"
+            ]
+        },
+        {
+            "name":"Ciclo de Caminata",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/qeOHvOE.png",
+            "content":[
+                "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
+            ]
+        },
+        {
+            "name":"Carrera",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/ooCXppk.png",
+            "content":[
+                "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
+            ]
+        }      ,
+        {
+            "name":"Ciclo de Caminata",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/qeOHvOE.png",
+            "content":[
+                "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
+            ]
+        },
+        {
+            "name":"Carrera",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/ooCXppk.png",
+            "content":[
+                "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
+            ]
+        }        ,
+        {
+            "name":"Ciclo de Caminata",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/qeOHvOE.png",
+            "content":[
+                "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
+            ]
+        },
+        {
+            "name":"Carrera",
+            "description":"En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+            "frontImage":"https://i.imgur.com/ooCXppk.png",
+            "content":[
+                "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
+            ]
+        }                       
+    ]
 }
