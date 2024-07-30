@@ -39,6 +39,7 @@ const Projects = () => {
     setCurrentIndex((prevIndex) =>
       prevIndex === 0 ? texts.projects.length - 1 : prevIndex - 1
     );
+    //resetear a 0 el otro indice
   };
 
   const handleNext = () => {

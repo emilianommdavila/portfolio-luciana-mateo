@@ -60,6 +60,14 @@
             "content":[
                 "https://i.imgur.com/ooCXppk.png","https://i.imgur.com/qeOHvOE.png"
             ]
-        }                       
+        },
+        {
+            "name":"Proyecto Lulu",
+            "description":"descripcion",
+            "frontImage":"https://i.pinimg.com/236x/9f/8f/4c/9f8f4c2165f1df967864ee3de4d3b6ea.jpg",
+            "content":[
+                "https://m.media-amazon.com/images/I/31yQlxzBZLL._AC_UF894,1000_QL80_.jpg","https://t2.uc.ltmcdn.com/es/posts/5/5/2/por_que_lloran_los_gatos_49255_600_square.jpg","https://www.cosasdegatos.es/wp-content/uploads/2017/01/gato-llora-ojo-causas.jpg"
+            ]
+        }                            
     ]
 }
