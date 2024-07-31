@@ -3,11 +3,16 @@ import { useState } from "react";
 import "./projects.css";
 import texts from "../../../public/text.json";
 
+interface Content{
+   type: string,
+   url: string
+}
+
 interface Project {
   name: string;
   description: string;
   frontImage: string;
-  content: string[];
+  content: Content[];
 }
 
 const Projects = () => {
@@ -63,6 +68,24 @@ const Projects = () => {
     console.log(currentIndexIntern);
   };
 
+
+  const renderCarouselItem = (item: { type: string, url: string }) => {
+    if (item.type === "image") {
+      return <img src={item.url} className="carrouselImage" alt="" />;
+    } else if (item.type === "video") {
+      return (
+        <video  className="carrouselVideo" controls width="360" height="240">
+        <source src={item.url} type='video/mp4'/>
+     </video>
+      );
+    }
+    return null;
+  };
+
+
+
+
+
   return (
     <div className="projects">
       <div className="GridContainer">
@@ -91,10 +114,7 @@ const Projects = () => {
             >
               {"<"}
             </button>
-            <img
-              src={selectedProject.content[currentIndexIntern]}
-              className="carrouselImage"
-            />
+            {renderCarouselItem(selectedProject.content[currentIndexIntern])}
             <button
               className="navButton small right"
               onClick={handleCarouselNext}
@@ -116,7 +136,6 @@ const Projects = () => {
           <h2>{selectedProject.name}</h2>
         </div>
       </div>
-      <iframe src="https://1drv.ms/v/c/eeb3ee7102904988/IQN-wbFhaf4sSa8__8ARybBZAQBZacadAtaMZ8JHTa1Qixw" width="1920" height="1080" ></iframe>
     </div>
   );
 };

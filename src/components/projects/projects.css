@@ -64,6 +64,7 @@
     flex-direction: column;
     justify-content: center;
     width: 50%;
+
 }
 
   .carrousel{
@@ -76,6 +77,11 @@
 
   .carrouselImage{
     width: 100%;
+  }
+
+  .carrouselVideo{
+    width: 100%;
+    height: auto;
   }
 
 
