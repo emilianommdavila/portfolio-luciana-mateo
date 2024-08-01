@@ -133,7 +133,8 @@ const Projects = () => {
           </div>
         </div>
         <div className="Description">
-          <h2>{selectedProject.name}</h2>
+          <h2 className="DescriptionTitle">{selectedProject.name}</h2>
+          <p className="DescrioptionDescription">{selectedProject.description}</p>
         </div>
       </div>
     </div>
