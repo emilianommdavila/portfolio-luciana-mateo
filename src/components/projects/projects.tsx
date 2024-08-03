@@ -114,7 +114,7 @@ const Projects = () => {
               className="navButton small left"
               onClick={handleCarouselPrev}
             >
-              {"<"}
+              <img className = "navArrow" src={LEFTARROW} alt="" />
             </button>
             {renderCarouselItem(selectedProject.content[currentIndexIntern])}
            
@@ -122,7 +122,7 @@ const Projects = () => {
               className="navButton small right"
               onClick={handleCarouselNext}
             >
-              {">"}
+              <img className = "navArrow" src={RIGHTARROW} alt="" />
             </button>
           </div>
           <div className="carouselIndicators">
