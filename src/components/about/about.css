@@ -16,7 +16,9 @@
 }
 
 .about{
-    height: 70%;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    height: 90%;
     color: black;
     font-family: "Solway";
     display: flex;
@@ -50,8 +52,9 @@
 
 .textAbout{
     display: flex;
-    align-items: center;
+    align-items: self-start;
     flex-direction: column;
+    margin-left: 10vh;
 }
 
 .description{

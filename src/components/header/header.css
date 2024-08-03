@@ -32,7 +32,10 @@
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
-    height: 20%;
+    height: 10%;
+    position: fixed;
+    background-color: #E4E4E4;
+    z-index: 999;
 }
 
 .nav_name_name {
@@ -60,11 +63,13 @@
     align-items: center;
     width: 40%;
     color: black;
+    margin-left: 5vh;
 }
 
 .nav_menu {
     display: flex;
     flex-direction: row;
+    margin-right: 5vh;
 }
 
 .nav_item {

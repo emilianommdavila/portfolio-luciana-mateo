@@ -2,6 +2,8 @@
 import { useState } from "react";
 import "./projects.css";
 import texts from "../../../public/text.json";
+import LEFTARROW from "../../assets/icons/leftArrow.png";
+import RIGHTARROW from "../../assets/icons/rigthArrow.png";
 
 interface Content{
    type: string,
@@ -25,6 +27,7 @@ const Projects = () => {
 
   const alterLanding = (project: Project) => {
     setSelectedProject(project);
+    setCurrentIndexIntern(0)
   };
 
   function obtainProjects(project: Project) {
@@ -44,7 +47,6 @@ const Projects = () => {
     setCurrentIndex((prevIndex) =>
       prevIndex === 0 ? texts.projects.length - 1 : prevIndex - 1
     );
-    //resetear a 0 el otro indice
   };
 
   const handleNext = () => {
@@ -90,11 +92,11 @@ const Projects = () => {
     <div className="projects">
       <div className="GridContainer">
         <button className="navButton left" onClick={handlePrev}>
-          IZQUIERDA
+          <img className = "navArrow" src={LEFTARROW} alt="" />
         </button>
         <div
           className="Grid"
-          style={{ transform: `translateX(-${currentIndex * 33}%)` }}
+          style={{ transform: `translateX(-${currentIndex * 33}%)` /*aca tengo que cambiar el desplazamiento de la balla*/ }}
         >
           {texts.projects.map((project, index) => (
             <div key={index}>{obtainProjects(project)}</div>
@@ -102,7 +104,7 @@ const Projects = () => {
         </div>
 
         <button className="navButton right" onClick={handleNext}>
-          DERECHA
+        <img className = "navArrow" src={RIGHTARROW} alt="" />
         </button>
       </div>
       <div className="landing">
@@ -115,6 +117,7 @@ const Projects = () => {
               {"<"}
             </button>
             {renderCarouselItem(selectedProject.content[currentIndexIntern])}
+           
             <button
               className="navButton small right"
               onClick={handleCarouselNext}
@@ -123,12 +126,9 @@ const Projects = () => {
             </button>
           </div>
           <div className="carouselIndicators">
+            
             {selectedProject.content.map((_, idx) => (
-              <span
-                key={idx}
-                className={`dot ${idx === currentIndexIntern ? "active" : ""}`}
-                onClick={() => setCurrentIndexIntern(idx)}
-              ></span>
+              <span key={idx} onClick={() => setCurrentIndexIntern(idx)}>{`${idx === currentIndexIntern ? '🔴' : '⚪'}`}</span>
             ))}
           </div>
         </div>
