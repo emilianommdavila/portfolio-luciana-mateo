@@ -4,38 +4,113 @@
         "aboutMe": "¡Hola! Mi nombre es Luciana Mateo y estoy recientemente graduada en la Tecnicatura Universitaria en Diseño y Animación Digital de la Universidad Siglo 21. Tengo 24 años y estoy entusiasmada por encontrar mi primera experiencia laboral en el campo. Me apasiona crear y dar vida a ideas a través del arte digital, y estoy ansiosa por aplicar mis habilidades y aprender en un entorno profesional.",
         "invitation": "¡Te invito a explorar mis trabajos!"
     },
-    "projects": [
+    "sections": [
         {
-            "name": "Sin Fin Cafetero",
-            "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
-            "frontImage": "https://i.imgur.com/6aLPqFE.png",
-            "content": [
+            "name":"Motion Graphics",
+            "projects": [
                 {
-                    "type": "image",
-                    "url": "https://imgur.com/GDKs6yN.gif"
+                    "name": "Sin Fin Cafetero",
+                    "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+                    "frontImage": "https://i.imgur.com/6aLPqFE.png",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/GDKs6yN.gif"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904"
+                        },
+                        {
+                            "type": "video",
+                            "url": "https://1drv.ms/v/c/eeb3ee7102904988/EX7BsWFp_ixJrz__wBHJsFkBQHUzKZrm982LD9MZG1KSpQ"
+                        } 
+                        
+                    ]
                 },
                 {
-                    "type": "image",
-                    "url": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904"
+                    "name": "Ciclo de caminata + desplazamiento",
+                    "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
+                    "frontImage": "https://i.imgur.com/qeOHvOE.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/KVdkZqE.mp4"
+                        }
+                    ]
+                },
+                  {
+                    "name": "Carrera",
+                    "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
+                    "frontImage": "https://i.imgur.com/ooCXppk.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/xYvhkb7.mp4"
+                        } 
+                        
+                    ]
                 },
                 {
-                    "type": "video",
-                    "url": "https://1drv.ms/v/c/eeb3ee7102904988/EX7BsWFp_ixJrz__wBHJsFkBQHUzKZrm982LD9MZG1KSpQ"
+                    "name": "Video Intitucional Hospital",
+                    "description": "Proyecto realizado para la materia 'Seminario de prácticas profesionales', elaborado con el software Adobe After Effects. Su propósito es ser un video institucional que presenta las principales áreas, actividades y servicios de Salud Mental que ofrece el Hospital Regional Río Cuarto. Se buscó que la información fuera amena y que tanto los colores, los íconos como la música complementaran el trabajo.",
+                    "frontImage": "https://i.imgur.com/zy7cOGl.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://www.youtube.com/watch?v=ZLy3CAPaGJU"
+                        } 
+                        
+                    ]
+                },
+                {
+                    "name": "Logo Mermaid",
+                    "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
+                    "frontImage": "https://i.imgur.com/iL9eMMF.jpeg",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/tEBaTLr.mp4"
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "Pedal a fondo",
+                    "description": "Para esta animación utilicé After Effects con el fin de mostrar a un ciclista navegando y esquivando ágilmente diversos obstáculos en un entorno urbano. Mi enfoque principal fue desarrollar una animación fluida y dinámica que resaltara la capacidad de contar una pequeña historia a través del movimiento y la interacción del personaje con su entorno, utilizando el formato loop.",
+                    "frontImage": "https://imgur.com/a/gPBN5Xv",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/hltSAjJ.mp4"
+                        }
+                        
+                    ]
                 }
             ]
         },
+              
         {
-            "name": "Flor de prueba",
-            "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
-            "frontImage": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904",
-            "content": [
+            "name":"3d",
+            "projects": [
                 {
-                    "type": "image",
-                    "url": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904"
-                },
-                {
-                    "type": "video",
-                    "url": "https://my.microsoftpersonalcontent.com/personal/eeb3ee7102904988/_layouts/15/download.aspx?UniqueId=7853b7f4-eb7d-40e5-a7cc-72bff1efc4e4&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjIzOTU5NDQifQ._E1uLzP0DIOA7WWBAXi6Q1a_2VwngqjgIa0TUXwIljy6iG78BQerj_hPYo3-tld1PF1I7fd4aRLp-xiU0f6U31Xi-8Oy7X91Ja5ogacrtnOzoK0fuklkPjCbbo1SqmOqKDYru7hKzzUES4sblLaz4EU_DtZZ0XhnK4AGaxwTIkzpCNrksakG716GMyopxj8YIHszB8EAprv4LSSGHr3BP0f2NCNqHYorolHPc1ljztCbjm5fbHt4mzACqdscgkiiwH5hbpHUxCVak_fkL55_K3S2XNxj-oiPSOfFzZ5leVTSVStc-SrqhvqOnSn-iwf9kW7kFuPW1LLNf2z15DS4oarcsBPTnOj_MJP7KoG73PGlpqA06QUQ4vsrw_8RM5ssYQRsNiDe5wtqz_U9cMCzcZQUWWBgpcKlm6q3o4BQodU.QJKmHPeH3is_trJi25jTDfi96WGFLImqyhkXQM9gxoQ&ApiVersion=2.0"
+                    "name": "Sin Fin Cafetero",
+                    "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
+                    "frontImage": "https://i.imgur.com/6aLPqFE.png",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/GDKs6yN.gif"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904"
+                        },
+                        {
+                            "type": "video",
+                            "url": "https://1drv.ms/v/c/eeb3ee7102904988/EX7BsWFp_ixJrz__wBHJsFkBQHUzKZrm982LD9MZG1KSpQ"
+                        }
+                    ]
                 }
             ]
         }

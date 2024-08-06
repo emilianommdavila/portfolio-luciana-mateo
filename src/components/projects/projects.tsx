@@ -1,13 +1,15 @@
 //import React from 'react'
 import { useState } from "react";
 import "./projects.css";
-import texts from "../../../public/text.json";
+import text from "../../../public/text.json";
 import LEFTARROW from "../../assets/icons/leftArrow.png";
 import RIGHTARROW from "../../assets/icons/rigthArrow.png";
 
-interface Content{
-   type: string,
-   url: string
+
+const texts = text.sections[0];
+interface Content {
+  type: string,
+  url: string
 }
 
 interface Project {
@@ -75,10 +77,11 @@ const Projects = () => {
     if (item.type === "image") {
       return <img src={item.url} className="carrouselImage" alt="" />;
     } else if (item.type === "video") {
+      console.log("cambie" + item.url)
       return (
-        <video  className="carrouselVideo" controls width="360" height="240">
-        <source src={item.url} type='video/mp4'/>
-     </video>
+        <video key={item.url} className="carrouselVideo" controls width="360" height="240">
+        <source src={item.url} type='video/mp4' />
+      </video>
       );
     }
     return null;
@@ -90,9 +93,10 @@ const Projects = () => {
 
   return (
     <div className="projects">
+      <div className="title">{texts.name}</div>
       <div className="GridContainer">
         <button className="navButton left" onClick={handlePrev}>
-          <img className = "navArrow" src={LEFTARROW} alt="" />
+          <img className="navArrow" src={LEFTARROW} alt="" />
         </button>
         <div
           className="Grid"
@@ -104,29 +108,38 @@ const Projects = () => {
         </div>
 
         <button className="navButton right" onClick={handleNext}>
-        <img className = "navArrow" src={RIGHTARROW} alt="" />
+          <img className="navArrow" src={RIGHTARROW} alt="" />
         </button>
       </div>
       <div className="landing">
         <div className="carrouselComplete">
           <div className="carrousel">
-            <button
-              className="navButton small left"
-              onClick={handleCarouselPrev}
-            >
-              <img className = "navArrow" src={LEFTARROW} alt="" />
-            </button>
-            {renderCarouselItem(selectedProject.content[currentIndexIntern])}
-           
-            <button
-              className="navButton small right"
-              onClick={handleCarouselNext}
-            >
-              <img className = "navArrow" src={RIGHTARROW} alt="" />
-            </button>
+            <div className="carrousel-background"
+              style={{
+                backgroundImage: 'url('+selectedProject.frontImage+')',
+                backgroundPosition: 'center',
+                backgroundSize: 'cover',
+                filter: 'blur(5px)'
+              }}></div>
+            <div className="carrousel-content">
+              <button
+                className="navButton small left"
+                onClick={handleCarouselPrev}
+              >
+                <img className="navArrow" src={LEFTARROW} alt="" />
+              </button>
+              {renderCarouselItem(selectedProject.content[currentIndexIntern])}
+
+              <button
+                className="navButton small right"
+                onClick={handleCarouselNext}
+              >
+                <img className="navArrow" src={RIGHTARROW} alt="" />
+              </button>
+            </div>
           </div>
           <div className="carouselIndicators">
-            
+
             {selectedProject.content.map((_, idx) => (
               <span key={idx} onClick={() => setCurrentIndexIntern(idx)}>{`${idx === currentIndexIntern ? '🔴' : '⚪'}`}</span>
             ))}

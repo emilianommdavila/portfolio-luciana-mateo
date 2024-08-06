@@ -59,7 +59,7 @@
 .nav_logo {
     display: flex;
     align-self: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     width: 40%;
     color: black;
