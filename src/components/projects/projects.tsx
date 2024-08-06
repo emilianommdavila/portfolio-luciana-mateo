@@ -1,7 +1,6 @@
 //import React from 'react'
 import { useState } from "react";
 import "./projects.css";
-import text from "../../../public/text.json";
 import LEFTARROW from "../../assets/icons/leftArrow.png";
 import RIGHTARROW from "../../assets/icons/rigthArrow.png";
 
@@ -26,7 +25,7 @@ interface Section {
 
 
 const Projects = (props: Section) => {
-  const { name, projects } = props;
+  const { name } = props;
 
   let texts = props;
 
@@ -98,7 +97,7 @@ const Projects = (props: Section) => {
   };
 
 
-  const returnSection = (section : Section)=>{
+  const returnSection = ()=>{
 
     return (
       <div className="projects">
@@ -169,7 +168,7 @@ const Projects = (props: Section) => {
 
   return (
     <div className="projectsContainer">      
-     { returnSection(props)}
+     { returnSection()}
     </div>
   );
 };
