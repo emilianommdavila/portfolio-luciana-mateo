@@ -16,22 +16,13 @@
                         {
                             "type": "image",
                             "url": "https://imgur.com/GDKs6yN.gif"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904"
-                        },
-                        {
-                            "type": "video",
-                            "url": "https://1drv.ms/v/c/eeb3ee7102904988/EX7BsWFp_ixJrz__wBHJsFkBQHUzKZrm982LD9MZG1KSpQ"
-                        } 
-                        
+                        }
                     ]
                 },
                 {
                     "name": "Ciclo de caminata + desplazamiento",
                     "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
-                    "frontImage": "https://i.imgur.com/qeOHvOE.png",
+                    "frontImage": "https://i.imgur.com/d8e82cL.png",
                     "content": [
                         {
                             "type": "video",
@@ -42,7 +33,7 @@
                   {
                     "name": "Carrera",
                     "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
-                    "frontImage": "https://i.imgur.com/ooCXppk.png",
+                    "frontImage": "https://i.imgur.com/e963TTw.png",
                     "content": [
                         {
                             "type": "video",
@@ -94,21 +85,143 @@
             "name":"3d",
             "projects": [
                 {
-                    "name": "Sin Fin Cafetero",
-                    "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
-                    "frontImage": "https://i.imgur.com/6aLPqFE.png",
+                    "name": "Robot",
+                    "description": "Proyecto desarrollado en Autodesk Maya como parte de la materia de Modelado 3D, se basó en el uso de blueprints como guía. Construido a partir de formas primitivas y prestando especial atención a los detalles, el objetivo principal fue lograr un modelado low poly.",
+                    "frontImage": "https://i.imgur.com/OKv0jmB.jpeg",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/GDKs6yN.gif"
+                            "url": "https://imgur.com/gallery/front-robot-qMlwW33"
                         },
                         {
                             "type": "image",
-                            "url": "https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=191644&inputFormat=png&cs=MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDQ4MTcxMGE0fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!lJLWSu-mq0SOw6WD5hfO_crx0I4IZBJKljbWy39C8X3TQhwO65pqQ6sRQ9LYy-rj%2Fitems%2F01JX6KK6E4DQRR6NL7V5CY4V5F6MAHLCFZ%3Ftempauth%3Dv1e.eyJzaXRlaWQiOiI0YWQ2OTI5NC1hNmVmLTQ0YWItOGVjMy1hNTgzZTYxN2NlZmQiLCJhcHBpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDA0ODE3MTBhNCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9teS5taWNyb3NvZnRwZXJzb25hbGNvbnRlbnQuY29tQDkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsImV4cCI6IjE3MjI0MDU2MDAifQ.NcVb0dWfCtrKrucGJ_trnWOp23K1ssME45L5lZDo3wjtgW05ydOgCV8fxcg6RVJfMp-PznP2jFJyglSqMBj_afLCakToxrSTJ-f32KHzHbhmcGkRRb3XqHK2988-iT4mBpIfUxM23rorwYeMRlPTf4k07BNjY-5mWfg9-stoDfM-vb6p8vv-pzR_SNO58YNoD58yiDGsPclPASGYfZ74pGpL3CXAbvzQKPRFWvUajjqffyuqQdzg5DDJLZ_TjA5GK_8smnDUPi51KzxhYOz56X7YGSFjmGjSo0SiSvewln24GU4h_J8AkMn5NMMKF2DZW3iRR8wsQj_jG1SHNtMchIh3gX_BAtP_djC62sL7D8_vHYpbRijD3YEB-7hHHI_n.yxmU5mY1Wlpg6pDuO1t5d1np8C5bSxWqd1fX3EyEeUE%26version%3DPublished&cb=63857553049&encodeFailures=1&width=1608&height=904"
+                            "url": "https://imgur.com/gallery/malla-robot-l2qCJul"
+                        }
+                    ]
+                },
+                {
+                    "name": "Habitación isométrica Maya",
+                    "description": "Proyecto elaborado con Autodesk Maya y construido a partir de formas primitivas, se centra en el perfeccionamiento de detalles para lograr una composición realista y completa. Se dedicó especial atención a la ventana y la iluminación, buscando crear una sutil sombra sobre la alfombra. Además, se incorporó una 'área light' en la pantalla de la computadora para simular su encendido y generar una ilusión de luz propia.",
+                    "frontImage": "https://i.imgur.com/gFa7sy8.jpeg",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/front-image-habitacion-maya-0g8sIxy"
                         },
                         {
-                            "type": "video",
-                            "url": "https://1drv.ms/v/c/eeb3ee7102904988/EX7BsWFp_ixJrz__wBHJsFkBQHUzKZrm982LD9MZG1KSpQ"
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/detalle-PDDyqx9"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/con-color-d7YyGMd"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cabaña Nocturna bajo la Nieve",
+                    "description": "En este proyecto realizado en Blender, mi objetivo fue explorar y experimentar con la atmósfera de una noche nevada a través de una cabaña iluminada cálidamente. Me enfoqué en destacar el contraste entre el frío del exterior y la acogedora calidez del interior. Más que solo perfeccionar mis habilidades técnicas en Blender, mi intención fue transmitir la calidez y la serenidad de una noche nevada a través del arte digital.",
+                    "frontImage": "https://imgur.com/gallery/gif-caba-Fc5IKVn",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/gif-caba-Fc5IKVn"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/vistas-caba-ADCx0Qq"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tostadora Animada",
+                    "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
+                    "frontImage": "https://imgur.com/gallery/tostadora-gif-iMrfGrL",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/tostadora-gif-iMrfGrL"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/sin-nada-tostadora-P1R6eo8"
+                        }
+                    ]
+                },
+                {
+                    "name": "Composición Mini Living",
+                    "description": "Proyecto realizado con Blender, diseñado para explorar y mejorar la simulación de telas y colisiones con miras a implementaciones futuras. El énfasis se puso en la creación de sombras y contrastes mediante la disposición de luces desde diferentes ángulos. Además, se experimentó con diversas texturas para destacar y diferenciar la mesa y el suelo dentro de la escena.",
+                    "frontImage": "https://imgur.com/UNfHTQbL",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/UNfHTQb"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/g61Dbcp"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gUBkiRJ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"Personajes en 3D",
+            "projects": [
+                {
+                    "name": "Patito 'Peep'",
+                    "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system para la creación del pasto usando una textura como base. Para la iluminación se utilizaron area lights y una imagen HDRi buscando dar naturalidad a la escena, también se realizó una serie de combinaciones de nodos para crear el efecto de nubes de tormenta. Respecto al personaje se buscó que tuviera características cartoon y un acabado muy suavizado.",
+                    "frontImage": "https://i.imgur.com/7rE79it.jpeg",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/peep-front-fFMLqmO"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/s-m-peep-Y0hHyBQ"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://i.imgur.com/va6Ee5Z.jpeg"
+                        }
+                    ]
+                },
+                {
+                    "name": "Osito 'Teddy'",
+                    "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system con una textura como base para la creación del pasto, también se realizaron combinaciones de nodos para lograr un buen acabado en las nubes del proyecto. Respecto a la iluminación se buscó algo natural utilizando como base con una imagen HDRI y luego se utilizaron area lights para enfatizar rasgos del personaje. Para el fondo empezó con una curva para hacer el tronco de los árboles y para las copas del mismo cubo con pocas subdivisiones, se buscaba lograr un contraste entre el acabado más suavizado del personaje y un modelado más low poly con los árboles del fondo.",
+                    "frontImage": "https://i.imgur.com/qV7QBEN.jpeg",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/teddy-front-1yvoPiL"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/gallery/s-m-teddy-CcPPEqQ"
+                        }
+                    ]
+                },
+                {
+                    "name": "Zorrito 'Rusty'",
+                    "description": "Proyecto de diseño de personaje realizado con el software Blender 3D. Se buscó un acabado cartoon con un fondo neutro para que realizara el personaje. En la creación del mismo se mezclaron tanto figuras geométricas básicas como curvas, por ejemplo en la boca, para que dichos rasgos fueran más fáciles de ejecutar. ",
+                    "frontImage": "https://i.imgur.com/piH2o9D.png",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/piH2o9D"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/ER2Mg9T"
+                        },
+                        {
+                            "type": "image",
+                            "url": "https://imgur.com/AsBqDuT"
                         }
                     ]
                 }
