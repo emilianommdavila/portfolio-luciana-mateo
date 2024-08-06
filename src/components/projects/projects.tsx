@@ -1,5 +1,5 @@
 //import React from 'react'
-import { useState } from "react";
+import { useRef,useState } from "react";
 import "./projects.css";
 import LEFTARROW from "../../assets/icons/leftArrow.png";
 import RIGHTARROW from "../../assets/icons/rigthArrow.png";
@@ -54,16 +54,41 @@ const Projects = (props: Section) => {
     );
   }
   //Grilla de arriba//
+  // const handlePrev = () => {
+  //   setCurrentIndex((prevIndex) =>
+  //     prevIndex === 0 ? texts.projects.length - 1 : prevIndex - 1
+  //   );
+  // };
+
+  // const handleNext = () => {
+  //   setCurrentIndex((prevIndex) =>
+  //     prevIndex === texts.projects.length - 1 ? 0 : prevIndex + 1
+  //   );
+  // };
+
+  const gridRef = useRef<HTMLDivElement>(null);
+  const scrollAmount = 260;
+
   const handlePrev = () => {
-    setCurrentIndex((prevIndex) =>
-      prevIndex === 0 ? texts.projects.length - 1 : prevIndex - 1
-    );
+    if (gridRef.current) {
+      const newIndex = Math.max(currentIndex - 1, 0);
+      setCurrentIndex(newIndex);
+      gridRef.current.scrollTo({
+        left: newIndex * scrollAmount,
+        behavior: 'smooth'
+      });
+    }
   };
 
   const handleNext = () => {
-    setCurrentIndex((prevIndex) =>
-      prevIndex === texts.projects.length - 1 ? 0 : prevIndex + 1
-    );
+    if (gridRef.current) {
+      const newIndex = Math.min(currentIndex + 1, texts.projects.length - 1);
+      setCurrentIndex(newIndex);
+      gridRef.current.scrollTo({
+        left: newIndex * scrollAmount,
+        behavior: 'smooth'
+      });
+    }
   };
 
   //carrusel de fotos de la presentacion
@@ -108,7 +133,8 @@ const Projects = (props: Section) => {
         </button>
         <div
           className="Grid"
-          style={{ transform: `translateX(-${currentIndex * 33}%)` /*aca tengo que cambiar el desplazamiento de la balla*/ }}
+          ref={gridRef}
+          style={{width: `100%`/*aca tengo que cambiar el desplazamiento de la balla*/ }}
         >
           {texts.projects.map((project, index) => (
             <div key={index}>{obtainProjects(project)}</div>

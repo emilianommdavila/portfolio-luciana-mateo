@@ -201,6 +201,8 @@
         width: 80%;
         max-width: 325px;
         transform: translateX(-50%);
+        
+        margin-left: 0px;
     }
 
     .nav_item a {
