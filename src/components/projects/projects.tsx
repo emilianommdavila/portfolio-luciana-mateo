@@ -6,7 +6,7 @@ import LEFTARROW from "../../assets/icons/leftArrow.png";
 import RIGHTARROW from "../../assets/icons/rigthArrow.png";
 
 
-const texts = text.sections[0];
+
 interface Content {
   type: string,
   url: string
@@ -19,7 +19,17 @@ interface Project {
   content: Content[];
 }
 
-const Projects = () => {
+interface Section {
+  name: string;
+  projects: Project[];
+}
+
+
+const Projects = (props: Section) => {
+  const { name, projects } = props;
+
+  let texts = props;
+
   const [selectedProject, setSelectedProject] = useState<Project>(
     texts.projects[0]
   );
@@ -88,12 +98,11 @@ const Projects = () => {
   };
 
 
+  const returnSection = (section : Section)=>{
 
-
-
-  return (
-    <div className="projects">
-      <div className="title">{texts.name}</div>
+    return (
+      <div className="projects">
+      <div className="title">{name}</div>
       <div className="GridContainer">
         <button className="navButton left" onClick={handlePrev}>
           <img className="navArrow" src={LEFTARROW} alt="" />
@@ -150,6 +159,17 @@ const Projects = () => {
           <p className="DescrioptionDescription">{selectedProject.description}</p>
         </div>
       </div>
+    </div>
+    );
+  }
+
+
+
+
+
+  return (
+    <div className="projectsContainer">      
+     { returnSection(props)}
     </div>
   );
 };
