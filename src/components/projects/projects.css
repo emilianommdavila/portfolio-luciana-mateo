@@ -247,6 +247,66 @@
   }
   
   .navButton.small.right {
-    position: relative;
     right: 0px;
   }
+
+
+
+
+  
+@media (max-width: 950px) {
+
+  .navButton.left {
+    left: 0;
+}
+.navButton.right {
+  right: 0px;
+}
+.landing{
+  flex-direction: column;
+}
+.carrouselComplete{
+  width: 100%;
+  height: 300px;
+}
+.Description{
+  width: 100%;
+  margin-left: 0px;
+  align-items: center;
+}
+
+.DescriptionTitle{
+  margin-top: 2px;
+  margin-bottom: 2px;
+  align-items: center;
+  text-align: center;
+}
+  
+.DescrioptionDescription{
+  text-align: center;
+  font-size: 14px;
+}
+
+
+}
+
+
+
+@media (max-width: 400px) {
+
+
+  
+}
+
+@media (max-width: 390px) {
+
+
+  
+}
+
+@media (max-width: 370px) {
+
+
+ 
+  
+}

@@ -30,7 +30,7 @@
     width: 100%;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 10px 20px;
     height: 10%;
     position: fixed;
@@ -59,7 +59,7 @@
 .nav_logo {
     display: flex;
     align-self: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     width: 40%;
     color: black;
@@ -121,7 +121,7 @@
 
 
 
-@media (max-width: 1110px) {
+@media (max-width: 1130px) {
 
     .nav_name_name{
         font-size: 50px;
@@ -130,10 +130,12 @@
     .nav_name_title {
         font-size: 20px;
     }
+
+    
     
 }
 
-@media (max-width: 990px) {
+@media (max-width: 1050px) {
 
  
     .nav_name_name{
@@ -147,7 +149,7 @@
         border: 3px #687FDD solid;
         border-radius: 35px;
         margin: 0 5px;
-        padding: 5px 10px;
+        padding: 10px 10px;
         text-align: center;
         display: flex;
         align-items: center;
@@ -161,9 +163,9 @@
 
 
 
-@media (max-width: 836px) {
+@media (max-width:950px) {
     .header {
-        position: relative;
+        position: fixed;
         justify-content: space-between;
         background-color: #CDCCCC;
         height: 80px;
@@ -205,7 +207,7 @@
         color: #000;
         font-weight: bold;
         font-family: "Solway";
-        font-size: 15px;
+        font-size: 10px;
     }
 
 
@@ -227,12 +229,12 @@
     .nav_item {
         border: 0px;
         margin: 0 10px;
-        padding: 10px 20px;
+        padding: 3px 20px;
         text-align: center;
         display: flex;
         align-items: center;
         justify-content: center;
-
+        font-size: 7px;
     }
 
 
@@ -252,6 +254,10 @@
     }
     .nav_name_title{
         font-size: 15px;
+    }
+
+    .nav_item {
+        padding: 3px 10px;
     }
 }
 

@@ -72,7 +72,7 @@
 
 
 
-@media (max-width: 836px) {
+@media (max-width: 950px) {
 
  
     .about{
@@ -80,8 +80,9 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        margin-top: 40px;
+        margin-top: 330px;
         width: 100%;
+        margin-bottom: 250px;
     }
 
     .photo{
@@ -94,6 +95,12 @@
         text-align: center;
      }
     
+     .textAbout{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 0px;
+    }
 }
 
 
@@ -104,6 +111,7 @@
     .about{
       
         margin-top: 6em;
+        margin-top: 350px;
      
     }
 
@@ -115,7 +123,7 @@
  
     .about{
       
-        margin-top: 90px;
+        margin-top: 350px;
      
     }
 
@@ -127,7 +135,7 @@
  
     .about{
       
-        margin-top: 5em;
+        margin-top: 370px;
      
     }
 
