@@ -278,10 +278,24 @@
 
   .navButton.left {
     left: 0;
+    display: none;
 }
 .navButton.right {
   right: 0px;
+  display: none;
 }
+.navButton.small.left {
+  display:block;
+}
+
+.navButton.small.right {
+  display: block;
+}
+
+.GridContainer{
+  border-radius: 5px;
+}
+
 .landing{
   flex-direction: column;
 }
