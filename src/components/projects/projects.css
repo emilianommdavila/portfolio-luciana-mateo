@@ -230,6 +230,7 @@
     max-height: 100%;
     width: 85%;
     height: auto;
+    border-radius: 35px;
   }
   .Description{
     width: 50%;
