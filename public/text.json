@@ -22,22 +22,22 @@
                 {
                     "name": "Ciclo de caminata + desplazamiento",
                     "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
-                    "frontImage": "https://i.imgur.com/KVdkZqE.gif",
+                    "frontImage": "https://i.imgur.com/d8e82cL.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/KVdkZqE.gif"
+                            "url": "https://i.imgur.com/KVdkZqE.mp4"
                         }
                     ]
                 },
                   {
                     "name": "Carrera",
                     "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
-                    "frontImage": "https://i.imgur.com/xYvhkb7.gif",
+                    "frontImage": "https://i.imgur.com/e963TTw.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/xYvhkb7.gif"
+                            "url": "https://i.imgur.com/xYvhkb7.mp4"
                         } 
                         
                     ]
