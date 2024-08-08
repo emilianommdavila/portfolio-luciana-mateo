@@ -96,7 +96,7 @@
 }
 
 .navButton {
-  position: absolute; /* Cambiado a absolute para que esté en su posición relativa al contenedor padre */
+  
   margin-top: 4.7em;
   border-radius: 0px;
   transform: translateY(-50%);
@@ -156,7 +156,10 @@
     align-items: center;
     width: 100%;
     height: 350px;   
-
+    border-radius: 35px;
+    -webkit-box-shadow: 1px 1px 36px 0px rgba(0,0,0,0.22);
+    -moz-box-shadow: 1px 1px 36px 0px rgba(0,0,0,0.22);
+    box-shadow: 1px 1px 36px 0px rgba(0,0,0,0.22);
   }
 
   .carrousel {
@@ -202,7 +205,12 @@
    
   
 
-
+  .dotImage{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 20px;
+    height: 20px;
+  }
 
 
   .carrouselImage{
