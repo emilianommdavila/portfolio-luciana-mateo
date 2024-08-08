@@ -11,7 +11,7 @@
                 {
                     "name": "Sin Fin Cafetero",
                     "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
-                    "frontImage": "https://i.imgur.com/6aLPqFE.png",
+                    "frontImage": "https://imgur.com/GDKs6yN.gif",
                     "content": [
                         {
                             "type": "image",
@@ -22,22 +22,22 @@
                 {
                     "name": "Ciclo de caminata + desplazamiento",
                     "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
-                    "frontImage": "https://i.imgur.com/d8e82cL.png",
+                    "frontImage": "https://i.imgur.com/KVdkZqE.gif",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/KVdkZqE.mp4"
+                            "url": "https://i.imgur.com/KVdkZqE.gif"
                         }
                     ]
                 },
                   {
                     "name": "Carrera",
                     "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
-                    "frontImage": "https://i.imgur.com/e963TTw.png",
+                    "frontImage": "https://i.imgur.com/xYvhkb7.gif",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/xYvhkb7.mp4"
+                            "url": "https://i.imgur.com/xYvhkb7.gif"
                         } 
                         
                     ]
@@ -57,11 +57,11 @@
                 {
                     "name": "Logo Mermaid",
                     "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
-                    "frontImage": "https://i.imgur.com/iL9eMMF.jpeg",
+                    "frontImage": "https://i.imgur.com/tEBaTLr.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/tEBaTLr.mp4"
+                            "url": "https://i.imgur.com/tEBaTLr.gif"
                         }
                         
                     ]
@@ -121,11 +121,11 @@
                 {
                     "name": "Cabaña Nocturna bajo la Nieve",
                     "description": "En este proyecto realizado en Blender, mi objetivo fue explorar y experimentar con la atmósfera de una noche nevada a través de una cabaña iluminada cálidamente. Me enfoqué en destacar el contraste entre el frío del exterior y la acogedora calidez del interior. Más que solo perfeccionar mis habilidades técnicas en Blender, mi intención fue transmitir la calidez y la serenidad de una noche nevada a través del arte digital.",
-                    "frontImage": "https://i.imgur.com/bipICbJ.mp4",
+                    "frontImage": "https://i.imgur.com/bipICbJ.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/bipICbJ.mp4"
+                            "url": "https://i.imgur.com/bipICbJ.gif"
                         },
                         {
                             "type": "image",
@@ -136,11 +136,11 @@
                 {
                     "name": "Tostadora Animada",
                     "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
-                    "frontImage": "https://i.imgur.com/ezswTcb.mp4",
+                    "frontImage": "https://i.imgur.com/ezswTcb.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/ezswTcb.mp4"
+                            "url": "https://i.imgur.com/ezswTcb.gif"
                         },
                         {
                             "type": "image",
