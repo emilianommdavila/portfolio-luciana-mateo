@@ -60,7 +60,7 @@
                     "frontImage": "https://i.imgur.com/iL9eMMF.jpeg",
                     "content": [
                         {
-                            "type": "video",
+                            "type": "image",
                             "url": "https://i.imgur.com/tEBaTLr.mp4"
                         }
                         
@@ -69,11 +69,11 @@
                 {
                     "name": "Pedal a fondo",
                     "description": "Para esta animación utilicé After Effects con el fin de mostrar a un ciclista navegando y esquivando ágilmente diversos obstáculos en un entorno urbano. Mi enfoque principal fue desarrollar una animación fluida y dinámica que resaltara la capacidad de contar una pequeña historia a través del movimiento y la interacción del personaje con su entorno, utilizando el formato loop.",
-                    "frontImage": "https://imgur.com/a/gPBN5Xv",
+                    "frontImage": "https://imgur.com/1w0Z0eZ.gif",
                     "content": [
                         {
-                            "type": "video",
-                            "url": "https://i.imgur.com/hltSAjJ.mp4"
+                            "type": "image",
+                            "url": "https://i.imgur.com/app0BNU.mp4"
                         }
                         
                     ]
@@ -91,11 +91,11 @@
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/front-robot-qMlwW33"
+                            "url": "https://i.imgur.com/OKv0jmB.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/malla-robot-l2qCJul"
+                            "url": "https://i.imgur.com/4qqxpfS.jpeg"
                         }
                     ]
                 },
@@ -106,64 +106,64 @@
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/front-image-habitacion-maya-0g8sIxy"
+                            "url": "https://i.imgur.com/gFa7sy8.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/detalle-PDDyqx9"
+                            "url": "https://i.imgur.com/X57rTM9.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/con-color-d7YyGMd"
+                            "url": "https://i.imgur.com/gWnsY15.jpeg"
                         }
                     ]
                 },
                 {
                     "name": "Cabaña Nocturna bajo la Nieve",
                     "description": "En este proyecto realizado en Blender, mi objetivo fue explorar y experimentar con la atmósfera de una noche nevada a través de una cabaña iluminada cálidamente. Me enfoqué en destacar el contraste entre el frío del exterior y la acogedora calidez del interior. Más que solo perfeccionar mis habilidades técnicas en Blender, mi intención fue transmitir la calidez y la serenidad de una noche nevada a través del arte digital.",
-                    "frontImage": "https://imgur.com/gallery/gif-caba-Fc5IKVn",
+                    "frontImage": "https://i.imgur.com/bipICbJ.mp4",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/gif-caba-Fc5IKVn"
+                            "url": "https://i.imgur.com/bipICbJ.mp4"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/vistas-caba-ADCx0Qq"
+                            "url": "https://i.imgur.com/cHjnSR4.png"
                         }
                     ]
                 },
                 {
                     "name": "Tostadora Animada",
                     "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
-                    "frontImage": "https://imgur.com/gallery/tostadora-gif-iMrfGrL",
+                    "frontImage": "https://i.imgur.com/ezswTcb.mp4",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/tostadora-gif-iMrfGrL"
+                            "url": "https://i.imgur.com/ezswTcb.mp4"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/sin-nada-tostadora-P1R6eo8"
+                            "url": "https://i.imgur.com/J8AuBKz.png"
                         }
                     ]
                 },
                 {
                     "name": "Composición Mini Living",
                     "description": "Proyecto realizado con Blender, diseñado para explorar y mejorar la simulación de telas y colisiones con miras a implementaciones futuras. El énfasis se puso en la creación de sombras y contrastes mediante la disposición de luces desde diferentes ángulos. Además, se experimentó con diversas texturas para destacar y diferenciar la mesa y el suelo dentro de la escena.",
-                    "frontImage": "https://imgur.com/UNfHTQbL",
+                    "frontImage": "https://i.imgur.com/gyBuTPZ.png",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/UNfHTQb"
+                            "url": "https://i.imgur.com/gyBuTPZ.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/g61Dbcp"
+                            "url": "https://i.imgur.com/g61Dbcp.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gUBkiRJ"
+                            "url": "https://i.imgur.com/gUBkiRJ.png"
                         }
                     ]
                 }
@@ -179,11 +179,11 @@
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/peep-front-fFMLqmO"
+                            "url": "https://i.imgur.com/7rE79it.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/s-m-peep-Y0hHyBQ"
+                            "url": "https://i.imgur.com/JacFoby.png"
                         },
                         {
                             "type": "image",
@@ -198,11 +198,11 @@
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/teddy-front-1yvoPiL"
+                            "url": "https://i.imgur.com/qV7QBEN.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/gallery/s-m-teddy-CcPPEqQ"
+                            "url": "https://i.imgur.com/ON3WVDO.png"
                         }
                     ]
                 },
@@ -213,15 +213,15 @@
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://imgur.com/piH2o9D"
+                            "url": "https://i.imgur.com/piH2o9D.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/ER2Mg9T"
+                            "url": "https://i.imgur.com/ER2Mg9T.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://imgur.com/AsBqDuT"
+                            "url": "https://i.imgur.com/AsBqDuT.png"
                         }
                     ]
                 }
