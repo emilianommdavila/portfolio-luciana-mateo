@@ -57,11 +57,11 @@
                 {
                     "name": "Logo Mermaid",
                     "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
-                    "frontImage": "https://i.imgur.com/tEBaTLr.gif",
+                    "frontImage": "https://i.imgur.com/iL9eMMF.jpg",
                     "content": [
                         {
-                            "type": "image",
-                            "url": "https://i.imgur.com/tEBaTLr.gif"
+                            "type": "video",
+                            "url": "https://i.imgur.com/tEBaTLr.mp4"
                         }
                         
                     ]
