@@ -31,7 +31,6 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 10px 20px;
     height: 10%;
     position: fixed;
     background-color: #E4E4E4;
@@ -52,8 +51,8 @@
 }
 
 .nav_logo_image {
-    width: 100px;
-    height: 100px;
+    max-width: 90px;
+    max-height: 90px;
 }
 
 .nav_logo {
@@ -162,13 +161,25 @@
 /* Estilos para mostrar/ocultar el menú en dispositivos pequeños */
 
 
+@media (max-height:950px) {
+    .header {
+        height: 15%;
+    }
+}
+
+@media (max-height:600px) {
+    .header {
+        height: 20%;
+    }
+}
+
 
 @media (max-width:950px) {
     .header {
         position: fixed;
         justify-content: space-between;
         background-color: #CDCCCC;
-        height: 80px;
+        height: 110px;
     }
 
     .hamburger-menu {
@@ -285,7 +296,7 @@
     }
     
 
-    @media (max-width: 380px) {
+    @media (max-width: 396px) {
         .nav_logo_image{
             width: 60px;
             height: 60px;

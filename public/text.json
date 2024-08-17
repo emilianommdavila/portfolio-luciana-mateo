@@ -82,7 +82,7 @@
         },
               
         {
-            "name":"3d",
+            "name":"3D",
             "projects": [
                 {
                     "name": "Robot",
@@ -227,5 +227,19 @@
                 }
             ]
         }
-    ]
+    ],
+    "abilities":{
+        "title":"Habilidades",
+        "listAbilities":[
+            "Composición","Motion Graphics","Modelado 3D","Animación de personajes", "Animación 3D"
+        ]
+    },
+    "contact":{
+        "mail":"",
+        "linkedin":"",
+        "whatsapp":"",
+        "cv":"",
+        "textMessage":"Escribe un mensaje",
+        "textThanks":"¡Gracias por tu mensaje!"
+    }
 }

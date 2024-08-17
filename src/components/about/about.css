@@ -22,6 +22,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    margin-top: 15%;
 }
 .photo{
     width: 80%;
@@ -77,9 +78,9 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        margin-top: 330px;
+        margin-top: 150px;
         width: 100%;
-        margin-bottom: 250px;
+        margin-bottom: 20px;
     }
 
     .photo{
@@ -108,7 +109,7 @@
     .about{
       
         margin-top: 6em;
-        margin-top: 350px;
+        margin-top: 130px;
      
     }
 
@@ -120,7 +121,7 @@
  
     .about{
       
-        margin-top: 350px;
+        margin-top: 130px;
      
     }
 
@@ -132,7 +133,7 @@
  
     .about{
       
-        margin-top: 370px;
+        margin-top: 120px;
      
     }
 

@@ -6,7 +6,7 @@ import ICONLOCATION from '../../assets/icons/location.png'
 
 function About() {
   return (
-    <div className="about">
+    <div id='about' className="about">
       <div className="photo">
         <img src={PHOTO} alt="" className="aboutPhoto" />
       </div>

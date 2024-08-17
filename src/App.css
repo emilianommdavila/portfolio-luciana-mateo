@@ -1,84 +1,23 @@
 html, body {
   height: 100%;
   margin: 0;
-  overflow: hidden
+  padding: 0;
+  overflow-x: hidden; 
 }
 
 #root {
   width: 100%;
   height: 100%;
-  margin: 0 auto;
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  
 }
 
 body > * {
   width: 100%;
 }
 
-
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
-
-.card {
-  padding: 2em;
-}
-
 .read-the-docs {
   color: #888;
-}
-
-
-.first-section {
-}
-
-.scroll-section {
-  height: 100%; /* Resto de la altura visible de la pantalla */
-  scroll-snap-align: start; /* Alinia cada sección al inicio del contenedor de desplazamiento */
-  overflow: hidden; /* Previene el desbordamiento del contenido */
-}
-.scroll-container {
-  height: 100%; /* Altura de la ventana completa */
-  overflow-y: scroll; /* Permitir desplazamiento vertical */
-  scroll-snap-type: y mandatory; /* Asegurar que el snap es obligatorio en el eje y */
-  margin-top: 10%;; /* Empujar el contenedor debajo del encabezado fijo */
-}
-
-
-
-
-
-
-
-.indicator {
-  list-style: none;
-  position: fixed;
-  right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
-  z-index: 1000;
-}
-
-.indicator li {
-  margin: 5px 0;
-  background-color: #ccc; /* Color inactivo */
-}
-
-.indicator li.active {
-  background-color: #f00; /* Color activo */
 }

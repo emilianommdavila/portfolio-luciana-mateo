@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Solway';
+    src: url('../../assets/Fonts/Solway-Regular.ttf') format('woff2'),
+         url('../../assets/Fonts/Solway-Regular.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'SolwayBold';
+    src: url('../../assets/Fonts/Solway-Bold.ttf') format('woff2'),
+         url('../../assets/Fonts/Solway-Bold.ttf') format('woff');
+    font-weight: bold;
+    font-style: bold;
+}
+
+.AbilitiesContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-family: SolwayBold;
+    color: #000;
+    height: 100%;
+    margin-top: 100px;
+    min-height: 700px;
+    align-items: center;
+}
+.titleHabilities{
+    font-size: 30px;
+}
+
+.listHabilities{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: SolwayBold;
+    font-size: 20px;
+    font-style: bold;
+    width: 80%;
+}
+.abilitie{
+    color: black;
+    background-color: #CDCDCD ;
+    padding: 10px;
+    margin: 5px;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 80%;
+}
+
+.iconAbilitie{
+    width: 90px;
+    height: 90px;
+}
+
+
+
+@media (max-width: 950px) {
+
+    .AbilitiesContainer{
+        margin-top: 0px;
+    }
+ 
+    .listHabilities{
+        display: flex;
+        justify-content: space-evenly;
+        font-family: SolwayBold;
+        font-size: 15px;
+        font-style: bold;
+    }
+    .abilitie{
+       margin: 5px;
+    }
+}
+
+
+
+@media (max-width: 710px) {
+
+ 
+    .listHabilities{
+        font-size: 12px;
+    }
+    .abilitie{
+        margin: 3px;
+    }
+
+    .iconAbilitie{
+        width: 75px;
+        height: 75px;
+    }
+
+    
+}
+
+@media (max-width: 590px) {
+
+    .listHabilities{
+        margin: 0;
+        flex-direction: column;
+        width: 60%;
+    }
+ 
+    .about{      
+        margin-top: 130px;     
+    }
+
+    .iconAbilitie{
+        width: 60px;
+        height: 60px;
+    }
+
+    
+}
+
+@media (max-width: 370px) {
+
+ 
+    .about{
+      
+        margin-top: 120px;
+     
+    }
+    .iconAbilitie{
+        width: 40px;
+        height: 40px;
+    }
+
+
+    
+}

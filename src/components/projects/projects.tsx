@@ -138,7 +138,7 @@ const Projects = (props: Section) => {
   const returnSection = () => {
 
     return (
-      <div className="projects">
+      <div id= "projects" className="projects">
         <div className="title">{name}</div>
         <div className="GridContainer">
           <button className="navButton left" onClick={handlePrev}>
