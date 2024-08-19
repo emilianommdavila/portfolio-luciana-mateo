@@ -6,7 +6,7 @@
     },
     "sections": [
         {
-            "name":"Motion Graphics",
+            "name": "Motion Graphics",
             "projects": [
                 {
                     "name": "Sin Fin Cafetero",
@@ -30,7 +30,7 @@
                         }
                     ]
                 },
-                  {
+                {
                     "name": "Carrera",
                     "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
                     "frontImage": "https://i.imgur.com/e963TTw.png",
@@ -38,8 +38,7 @@
                         {
                             "type": "video",
                             "url": "https://i.imgur.com/xYvhkb7.mp4"
-                        } 
-                        
+                        }
                     ]
                 },
                 {
@@ -50,20 +49,7 @@
                         {
                             "type": "video",
                             "url": "https://youtu.be/ZLy3CAPaGJU"
-                        } 
-                        
-                    ]
-                },
-                {
-                    "name": "Logo Mermaid",
-                    "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
-                    "frontImage": "https://i.imgur.com/iL9eMMF.jpg",
-                    "content": [
-                        {
-                            "type": "video",
-                            "url": "https://i.imgur.com/tEBaTLr.mp4"
                         }
-                        
                     ]
                 },
                 {
@@ -75,171 +61,217 @@
                             "type": "image",
                             "url": "https://imgur.com/1w0Z0eZ.gif"
                         }
-                        
-                    ]
-                }
-            ]
-        },
-              
-        {
-            "name":"3D",
-            "projects": [
-                {
-                    "name": "Robot",
-                    "description": "Proyecto desarrollado en Autodesk Maya como parte de la materia de Modelado 3D, se basó en el uso de blueprints como guía. Construido a partir de formas primitivas y prestando especial atención a los detalles, el objetivo principal fue lograr un modelado low poly.",
-                    "frontImage": "https://i.imgur.com/OKv0jmB.jpeg",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/OKv0jmB.jpeg"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/4qqxpfS.jpeg"
-                        }
-                    ]
-                },
-                {
-                    "name": "Habitación isométrica Maya",
-                    "description": "Proyecto elaborado con Autodesk Maya y construido a partir de formas primitivas, se centra en el perfeccionamiento de detalles para lograr una composición realista y completa. Se dedicó especial atención a la ventana y la iluminación, buscando crear una sutil sombra sobre la alfombra. Además, se incorporó una 'área light' en la pantalla de la computadora para simular su encendido y generar una ilusión de luz propia.",
-                    "frontImage": "https://i.imgur.com/gFa7sy8.jpeg",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/gFa7sy8.jpeg"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/X57rTM9.png"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/gWnsY15.jpeg"
-                        }
-                    ]
-                },
-                {
-                    "name": "Cabaña Nocturna bajo la Nieve",
-                    "description": "En este proyecto realizado en Blender, mi objetivo fue explorar y experimentar con la atmósfera de una noche nevada a través de una cabaña iluminada cálidamente. Me enfoqué en destacar el contraste entre el frío del exterior y la acogedora calidez del interior. Más que solo perfeccionar mis habilidades técnicas en Blender, mi intención fue transmitir la calidez y la serenidad de una noche nevada a través del arte digital.",
-                    "frontImage": "https://i.imgur.com/bipICbJ.gif",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/bipICbJ.gif"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/cHjnSR4.png"
-                        }
-                    ]
-                },
-                {
-                    "name": "Tostadora Animada",
-                    "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
-                    "frontImage": "https://i.imgur.com/ezswTcb.gif",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/ezswTcb.gif"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/J8AuBKz.png"
-                        }
-                    ]
-                },
-                {
-                    "name": "Composición Mini Living",
-                    "description": "Proyecto realizado con Blender, diseñado para explorar y mejorar la simulación de telas y colisiones con miras a implementaciones futuras. El énfasis se puso en la creación de sombras y contrastes mediante la disposición de luces desde diferentes ángulos. Además, se experimentó con diversas texturas para destacar y diferenciar la mesa y el suelo dentro de la escena.",
-                    "frontImage": "https://i.imgur.com/gyBuTPZ.png",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/gyBuTPZ.png"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/g61Dbcp.png"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/gUBkiRJ.png"
-                        }
                     ]
                 }
             ]
         },
         {
-            "name":"Personajes en 3D",
+            "name": "Logos",
             "projects": [
                 {
-                    "name": "Patito 'Peep'",
-                    "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system para la creación del pasto usando una textura como base. Para la iluminación se utilizaron area lights y una imagen HDRi buscando dar naturalidad a la escena, también se realizó una serie de combinaciones de nodos para crear el efecto de nubes de tormenta. Respecto al personaje se buscó que tuviera características cartoon y un acabado muy suavizado.",
-                    "frontImage": "https://i.imgur.com/7rE79it.jpeg",
+                    "name": "Liquid Logo",
+                    "description": "En esta animación de logo se buscó un movimiento fluido y orgánico que diera la sensación de líquidos, donde las formas dinámicas se mueven de manera armoniosa para llenar la pantalla. Al ser una animación sencilla, se combinó con colores vibrantes y transiciones suaves, creando un efecto visual atractivo y versátil.",
+                    "frontImage": "https://i.imgur.com/gPZngao.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/7rE79it.jpeg"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/JacFoby.png"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/va6Ee5Z.jpeg"
+                            "url": "https://i.imgur.com/gPZngao.gif"
                         }
                     ]
                 },
                 {
-                    "name": "Osito 'Teddy'",
-                    "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system con una textura como base para la creación del pasto, también se realizaron combinaciones de nodos para lograr un buen acabado en las nubes del proyecto. Respecto a la iluminación se buscó algo natural utilizando como base con una imagen HDRI y luego se utilizaron area lights para enfatizar rasgos del personaje. Para el fondo empezó con una curva para hacer el tronco de los árboles y para las copas del mismo cubo con pocas subdivisiones, se buscaba lograr un contraste entre el acabado más suavizado del personaje y un modelado más low poly con los árboles del fondo.",
-                    "frontImage": "https://i.imgur.com/qV7QBEN.jpeg",
+                    "name": "Logo Mermaid",
+                    "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
+                    "frontImage": "https://i.imgur.com/iL9eMMF.jpg",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/qV7QBEN.jpeg"
-                        },
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/ON3WVDO.png"
+                            "url": "https://i.imgur.com/tEBaTLr.mp4"
                         }
                     ]
                 },
                 {
-                    "name": "Zorrito 'Rusty'",
-                    "description": "Proyecto de diseño de personaje realizado con el software Blender 3D. Se buscó un acabado cartoon con un fondo neutro para que realizara el personaje. En la creación del mismo se mezclaron tanto figuras geométricas básicas como curvas, por ejemplo en la boca, para que dichos rasgos fueran más fáciles de ejecutar. ",
-                    "frontImage": "https://i.imgur.com/piH2o9D.png",
+                    "name": "Logo Inmobiliaria",
+                    "description": "En esta animación de logo se buscó un estilo versátil y moderno sin estar muy cargado de información. Los edificios se desplazan suavemente, revelando el nombre del negocio de forma clara y dinámica. Con un toque simple y flexible, se llega a resaltar la identidad de la marca, enfatizando su objetivo de manera directa y atractiva. ",
+                    "frontImage": "https://i.imgur.com/0olKZuJ.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/piH2o9D.png"
-                        },
+                            "url": "https://i.imgur.com/0olKZuJ.gif"
+                        }
+                    ]
+                },
+                {
+                    "name": "Logo Nature",
+                    "description": "El logo está diseñado para capturar la esencia de la naturaleza a través del dinamismo de las hojas. Estas se mueven de forma fluida y se agrupan sobre el nombre de la marca, simbolizando su esencia y propósito. El diseño refleja la vitalidad natural y añade un toque visualmente atractivo y enérgico al logo. Para animar el movimiento de las hojas, se creó un path con la forma deseada y luego se copió en la posición de las hojas, transformando cada nodo en un keyframe de posición.",
+                    "frontImage": "https://i.imgur.com/ja9v5Bs.gif",
+                    "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/ER2Mg9T.png"
+                            "url": "https://i.imgur.com/ja9v5Bs.gif"
+                        }
+                    ]
+                },
+                {
+                    "name": "3D",
+                    "projects": [
+                        {
+                            "name": "Robot",
+                            "description": "Proyecto desarrollado en Autodesk Maya como parte de la materia de Modelado 3D, se basó en el uso de blueprints como guía. Construido a partir de formas primitivas y prestando especial atención a los detalles, el objetivo principal fue lograr un modelado low poly.",
+                            "frontImage": "https://i.imgur.com/OKv0jmB.jpeg",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/OKv0jmB.jpeg"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/4qqxpfS.jpeg"
+                                }
+                            ]
                         },
                         {
-                            "type": "image",
-                            "url": "https://i.imgur.com/AsBqDuT.png"
+                            "name": "Habitación isométrica Maya",
+                            "description": "Proyecto elaborado con Autodesk Maya y construido a partir de formas primitivas, se centra en el perfeccionamiento de detalles para lograr una composición realista y completa. Se dedicó especial atención a la ventana y la iluminación, buscando crear una sutil sombra sobre la alfombra. Además, se incorporó una 'área light' en la pantalla de la computadora para simular su encendido y generar una ilusión de luz propia.",
+                            "frontImage": "https://i.imgur.com/gFa7sy8.jpeg",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/gFa7sy8.jpeg"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/X57rTM9.png"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/gWnsY15.jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Cabaña Nocturna bajo la Nieve",
+                            "description": "En este proyecto realizado en Blender, mi objetivo fue explorar y experimentar con la atmósfera de una noche nevada a través de una cabaña iluminada cálidamente. Me enfoqué en destacar el contraste entre el frío del exterior y la acogedora calidez del interior. Más que solo perfeccionar mis habilidades técnicas en Blender, mi intención fue transmitir la calidez y la serenidad de una noche nevada a través del arte digital.",
+                            "frontImage": "https://i.imgur.com/bipICbJ.gif",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/bipICbJ.gif"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/cHjnSR4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Tostadora Animada",
+                            "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
+                            "frontImage": "https://i.imgur.com/ezswTcb.gif",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/ezswTcb.gif"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/J8AuBKz.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Composición Mini Living",
+                            "description": "Proyecto realizado con Blender, diseñado para explorar y mejorar la simulación de telas y colisiones con miras a implementaciones futuras. El énfasis se puso en la creación de sombras y contrastes mediante la disposición de luces desde diferentes ángulos. Además, se experimentó con diversas texturas para destacar y diferenciar la mesa y el suelo dentro de la escena.",
+                            "frontImage": "https://i.imgur.com/gyBuTPZ.png",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/gyBuTPZ.png"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/g61Dbcp.png"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/gUBkiRJ.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Patito 'Peep'",
+                            "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system para la creación del pasto usando una textura como base. Para la iluminación se utilizaron area lights y una imagen HDRi buscando dar naturalidad a la escena, también se realizó una serie de combinaciones de nodos para crear el efecto de nubes de tormenta. Respecto al personaje se buscó que tuviera características cartoon y un acabado muy suavizado.",
+                            "frontImage": "https://i.imgur.com/7rE79it.jpeg",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/7rE79it.jpeg"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/JacFoby.png"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/va6Ee5Z.jpeg"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Osito 'Teddy'",
+                            "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system con una textura como base para la creación del pasto, también se realizaron combinaciones de nodos para lograr un buen acabado en las nubes del proyecto. Respecto a la iluminación se buscó algo natural utilizando como base con una imagen HDRI y luego se utilizaron area lights para enfatizar rasgos del personaje. Para el fondo empezó con una curva para hacer el tronco de los árboles y para las copas del mismo cubo con pocas subdivisiones, se buscaba lograr un contraste entre el acabado más suavizado del personaje y un modelado más low poly con los árboles del fondo.",
+                            "frontImage": "https://i.imgur.com/qV7QBEN.jpeg",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/qV7QBEN.jpeg"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/ON3WVDO.png"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Zorrito 'Rusty'",
+                            "description": "Proyecto de diseño de personaje realizado con el software Blender 3D. Se buscó un acabado cartoon con un fondo neutro para que realizara el personaje. En la creación del mismo se mezclaron tanto figuras geométricas básicas como curvas, por ejemplo en la boca, para que dichos rasgos fueran más fáciles de ejecutar. ",
+                            "frontImage": "https://i.imgur.com/piH2o9D.png",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/piH2o9D.png"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/ER2Mg9T.png"
+                                },
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/AsBqDuT.png"
+                                }
+                            ]
                         }
                     ]
                 }
             ]
         }
     ],
-    "abilities":{
-        "title":"Habilidades",
-        "listAbilities":[
-            "Composición","Motion Graphics","Modelado 3D","Animación de personajes", "Animación 3D"
+    "abilities": {
+        "title": "Habilidades",
+        "listAbilities": [
+            "Composición",
+            "Motion Graphics",
+            "Modelado 3D",
+            "Animación de personajes",
+            "Animación 3D"
         ]
     },
-    "contact":{
-        "mail":"",
-        "linkedin":"",
-        "whatsapp":"",
-        "cv":"",
-        "textMessage":"Escribe un mensaje",
-        "textThanks":"¡Gracias por tu mensaje!"
+    "contact": {
+        "mail": "",
+        "linkedin": "www.linkedin.com/in/luciana-mateo",
+        "whatsapp": "",
+        "cv": "https://drive.google.com/file/d/1nDfNsbyENmKtdN87f_78rlHEcA2JZyN2/view?usp=sharing",
+        "textMessage": "Enviar",
+        "textThanks": "¡Gracias por tu mensaje!"
     }
 }
