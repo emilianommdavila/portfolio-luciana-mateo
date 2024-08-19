@@ -14,7 +14,7 @@ const ContactForm = () => {
   const [message, setMessage] = useState('');
 
   const handleClick = () => {
-    const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(`Mensaje de ${name}`)}&body=${encodeURIComponent(message)}`;
+    const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(`Mensaje de: `)}&body=${encodeURIComponent(message)}`;
     window.location.href = mailtoLink;
   };
 
@@ -43,11 +43,11 @@ const ContactForm = () => {
             <img className="iconContact" src={LN} alt="" />
             LinkedIn
         </a>
-        <a href="/path/to/cv.pdf" target="_blank" rel="noopener noreferrer">
+        <a href={texts.contact.cv } target="_blank" rel="noopener noreferrer">
             <img className="iconContact" src={CV} alt="" />
             Curriculum Vitae
         </a>
-        <a href={"https://wa.me/"+{WH}} target="_blank" rel="noopener noreferrer">
+        <a href={"https://wa.me/"+texts.contact.whatsapp} target="_blank" rel="noopener noreferrer">
             <img className="iconContact" src={WH} alt="" />
             WhatsApp
         </a>
