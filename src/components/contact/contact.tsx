@@ -9,7 +9,6 @@ import ML from '../../assets/icons/gmail.png'
 
 
 const ContactForm = () => {
-  const name = useState('');
   const email = texts.contact.mail;
   const [message, setMessage] = useState('');
 
