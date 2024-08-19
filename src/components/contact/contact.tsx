@@ -47,7 +47,7 @@ const ContactForm = () => {
             <img className="iconContact" src={CV} alt="" />
             Curriculum Vitae
         </a>
-        <a href="https://wa.me/1234567890" target="_blank" rel="noopener noreferrer">
+        <a href={"https://wa.me/"+{WH}} target="_blank" rel="noopener noreferrer">
             <img className="iconContact" src={WH} alt="" />
             WhatsApp
         </a>
