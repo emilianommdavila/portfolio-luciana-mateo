@@ -63,6 +63,17 @@
                             "url": "https://i.imgur.com/1w0Z0eZ.gif"
                         }
                     ]
+                },    
+                {
+                    "name": "Video Promocional Sprite",
+                    "description": "Para este proyecto, creé un pequeño video promocional para la marca Sprite. La idea fue integrar una toma de agua para representar la frescura de la marca de la forma más natural posible. Al inicio, jugué con distintos patrones y efectos rápidos para lograr un buen contraste con el final, que es más pausado y tranquilo",
+                    "frontImage": "https://i.imgur.com/VD5ilse.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/UMpqfkZ.mp4"
+                        }
+                    ]
                 }
             ]
         },
@@ -121,17 +132,6 @@
                         {
                             "type": "image",
                             "url": "https://i.imgur.com/ja9v5Bs.gif"
-                        }
-                    ]
-                },    
-                {
-                    "name": "Video Promocional Sprite",
-                    "description": "Para este proyecto, creé un pequeño video promocional para la marca Sprite. La idea fue integrar una toma de agua para representar la frescura de la marca de la forma más natural posible. Al inicio, jugué con distintos patrones y efectos rápidos para lograr un buen contraste con el final, que es más pausado y tranquilo",
-                    "frontImage": "https://i.imgur.com/VD5ilse.png",
-                    "content": [
-                        {
-                            "type": "video",
-                            "url": "https://i.imgur.com/UMpqfkZ.mp4"
                         }
                     ]
                 }
