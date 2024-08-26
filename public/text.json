@@ -48,8 +48,8 @@
                     "frontImage": "https://i.imgur.com/zy7cOGl.png",
                     "content": [
                         {
-                            "type": "video",
-                            "url": "https://youtu.be/ZLy3CAPaGJU"
+                            "type": "videoLargo",
+                            "url": "https://player.vimeo.com/video/1002526739?h=fac426df73"
                         }
                     ]
                 },
@@ -72,11 +72,11 @@
                 {
                     "name": "Liquid Logo",
                     "description": "En esta animación de logo se buscó un movimiento fluido y orgánico que diera la sensación de líquidos, donde las formas dinámicas se mueven de manera armoniosa para llenar la pantalla. Al ser una animación sencilla, se combinó con colores vibrantes y transiciones suaves, creando un efecto visual atractivo y versátil.",
-                    "frontImage": "https://i.imgur.com/gPZngao.gif",
+                    "frontImage": "https://i.imgur.com/a0pZohh.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/gPZngao.gif"
+                            "url": "https://i.imgur.com/a0pZohh.gif"
                         }
                     ]
                 },
@@ -93,18 +93,29 @@
                 },
                 {
                     "name": "Logo Inmobiliaria",
-                    "description": "En esta animación de logo se buscó un estilo versátil y moderno sin estar muy cargado de información. Los edificios se desplazan suavemente, revelando el nombre del negocio de forma clara y dinámica. Con un toque simple y flexible, se llega a resaltar la identidad de la marca, enfatizando su objetivo de manera directa y atractiva. ",
-                    "frontImage": "https://i.imgur.com/0olKZuJ.gif",
+                    "description": "Esta animación la realicé para el emprendimiento familiar de venta de propiedades. Busqué un estilo moderno y versátil, manteniendo un diseño limpio. Con un enfoque simple, logré destacar la identidad de la marca y transmitir su mensaje de forma directa y atractiva. ",
+                    "frontImage": "https://i.imgur.com/QKZEDvN.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/0olKZuJ.gif"
+                            "url": "https://i.imgur.com/QKZEDvN.gif"
+                        }
+                    ]
+                },
+                {
+                    "name": "Logo Pastelería Marula",
+                    "description": "Este logo lo realicé para un emprendimiento de pastelería familiar. Busqué reflejar el propósito principal, que es la elaboración de tortas personalizadas, resaltando la dedicación y agregando un toque casero en cada creación. También me gustó la idea de hacer un pequeño guiño visual al proceso de decorar tortas. El diseño busca transmitir calidez y creatividad, destacando la pasión por los detalles que hacen cada torta única.",
+                    "frontImage": "https://i.imgur.com/c0VOmVZ.gif",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://i.imgur.com/c0VOmVZ.gif"
                         }
                     ]
                 },
                 {
                     "name": "Logo Nature",
-                    "description": "El logo está diseñado para capturar la esencia de la naturaleza a través del dinamismo de las hojas. Estas se mueven de forma fluida y se agrupan sobre el nombre de la marca, simbolizando su esencia y propósito. El diseño refleja la vitalidad natural y añade un toque visualmente atractivo y enérgico al logo. Para animar el movimiento de las hojas, se creó un path con la forma deseada y luego se copió en la posición de las hojas, transformando cada nodo en un keyframe de posición.",
+                    "description": "El logo está diseñado para capturar la esencia de la naturaleza a través del dinamismo de las hojas. Con el diseño busqué reflejar la naturaleza añadiendo un toque visualmente atractivo y enérgico al logo. Para animar el movimiento de las hojas, se creó un path con la forma deseada y luego se copió en la posición de las hojas, transformando cada nodo en un keyframe de posición.",
                     "frontImage": "https://i.imgur.com/ja9v5Bs.gif",
                     "content": [
                         {
@@ -170,11 +181,11 @@
                 {
                     "name": "Tostadora Animada",
                     "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
-                    "frontImage": "https://i.imgur.com/ezswTcb.gif",
+                    "frontImage": "https://i.imgur.com/YXoJaH8.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/ezswTcb.gif"
+                            "url": "https://i.imgur.com/YXoJaH8.gif"
                         },
                         {
                             "type": "image",

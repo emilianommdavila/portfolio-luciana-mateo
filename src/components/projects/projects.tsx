@@ -124,12 +124,17 @@ const Projects = (props: Section) => {
     if (item.type === "image") {
       return <img src={item.url} className="carrouselImage" alt="" />;
     } else if (item.type === "video") {
-      console.log("cambie" + item.url)
       return (
-        <video key={item.url} className="carrouselVideo" controls width="360" height="240">
-          <source src={item.url} type='video/mp4' />
-        </video>
+         <video key={item.url} className="carrouselVideo" controls width="360" height="240">
+           <source src={item.url} type='video/mp4' /> 
+         </video>
       );
+    }else if(item.type === "videoLargo")
+    {
+     // <iframe src={item.url} width="100%" height="100%"  ></iframe>
+     return(
+     <iframe title="vimeo-player" src={item.url} width="640" height="360"    ></iframe>
+     )
     }
     return null;
   };
@@ -185,7 +190,7 @@ const Projects = (props: Section) => {
                 >
                   <img className="navArrow" src={RIGHTARROW} alt="" />
                 </button>
-              </div>
+               </div>
             </div>
             <div className="carouselIndicators">
 
