@@ -43,6 +43,17 @@
                     ]
                 },
                 {
+                    "name": "Proagile",
+                    "description": "Este trabajo lo realicé para una empresa de tecnología. Busqué crear una animación que fuera hipnótica y que captara la atención al inicio del video, para luego presentar la información principal de la compañía y destacar sus características y ubicación, utilizando siempre la paleta de color de la compañía.",
+                    "frontImage": "https://i.imgur.com/jbJDjC5.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/YTmgzCS.mp4"
+                        }
+                    ]
+                },
+                {
                     "name": "Video Intitucional Hospital",
                     "description": "Proyecto realizado para la materia 'Seminario de prácticas profesionales', elaborado con el software Adobe After Effects. Su propósito es ser un video institucional que presenta las principales áreas, actividades y servicios de Salud Mental que ofrece el Hospital Regional Río Cuarto. Se buscó que la información fuera amena y que tanto los colores, los íconos como la música complementaran el trabajo.",
                     "frontImage": "https://i.imgur.com/zy7cOGl.png",
