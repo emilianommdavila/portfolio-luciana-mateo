@@ -23,7 +23,7 @@
                 {
                     "name": "Gimanasio Promo",
                     "description": "Para este proyecto creé una animación para un gimnasio donde un personaje realiza diversas actividades, aportando diversión y energía. Utilicé curvas de animación para darle fluidez y dinamismo, destacando en una paleta de colores vibrante con rojo como protagonista, que resalta la vitalidad del gimnasio.",
-                    "frontImage": "https://i.imgur.com/d8e82cL.png",
+                    "frontImage": "https://i.imgur.com/KIa9Xhj.png ",                    
                     "content": [
                         {
                             "type": "videoLargo",
@@ -34,7 +34,7 @@
                 {
                     "name": "Ciclo de caminata + desplazamiento",
                     "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
-                    "frontImage": "https://i.imgur.com/KIa9Xhj.png ",
+                    "frontImage": "https://i.imgur.com/d8e82cL.png",
                     "content": [
                         {
                             "type": "video",
@@ -315,7 +315,7 @@
         "mail": "lucianammateo@gmail.com",
         "linkedin": "www.linkedin.com/in/luciana-mateo",
         "whatsapp": "2616187209",
-        "cv": "https://drive.google.com/file/d/1nDfNsbyENmKtdN87f_78rlHEcA2JZyN2/view?usp=sharing",
+        "cv": "https://drive.google.com/file/d/1K8TBDurEgx_3aZhzUUC1occ9T2Mkh_LM/view?usp=sharing",
         "textMessage": "Enviar",
         "textThanks": "¡Gracias por tu mensaje!"
     }
