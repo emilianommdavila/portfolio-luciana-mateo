@@ -21,6 +21,17 @@
                     ]
                 },
                 {
+                    "name": "Gimanasio Promo",
+                    "description": "Para este proyecto creé una animación para un gimnasio donde un personaje realiza diversas actividades, aportando diversión y energía. Utilicé curvas de animación para darle fluidez y dinamismo, destacando en una paleta de colores vibrante con rojo como protagonista, que resalta la vitalidad del gimnasio.",
+                    "frontImage": "https://i.imgur.com/d8e82cL.png",
+                    "content": [
+                        {
+                            "type": "videoLargo",
+                            "url": "https://player.vimeo.com/video/1009303104"
+                        }
+                    ]
+                },
+                {
                     "name": "Ciclo de caminata + desplazamiento",
                     "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
                     "frontImage": "https://i.imgur.com/d8e82cL.png",
