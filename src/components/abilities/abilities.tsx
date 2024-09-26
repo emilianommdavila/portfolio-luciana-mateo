@@ -6,6 +6,7 @@ import AI from '../../assets/icons/illustrator.png'
 import PS from '../../assets/icons/ps.png'
 import BLENDER from '../../assets/icons/blender_icon_1024x1024.png'
 import MAYA from '../../assets/icons/autodesk_maya-logo_brandlogos.net_x7aqy.png'
+import PREMIERE from '../../assets/icons/Premiere.png'
 
 
 const returnAbilities = (x:String) =>
@@ -30,6 +31,7 @@ export class Abilities extends Component {
             <img className='iconAbilitie' src={PS} alt="" />
             <img className='iconAbilitie' src={BLENDER} alt="" />
             <img className='iconAbilitie' src={MAYA} alt="" />
+            <img className='iconAbilitie' src={PREMIERE} alt="" />
         </div>
 
       </div>

@@ -1,7 +1,7 @@
 {
     "about": {
         "location": "Mendoza, Argentina",
-        "aboutMe": "¡Hola! Mi nombre es Luciana Mateo y estoy recientemente graduada en la Tecnicatura Universitaria en Diseño y Animación Digital de la Universidad Siglo 21. Tengo 24 años y estoy entusiasmada por encontrar mi primera experiencia laboral en el campo. Me apasiona crear y dar vida a ideas a través del arte digital, y estoy ansiosa por aplicar mis habilidades y aprender en un entorno profesional.",
+        "aboutMe": "¡Hola! Mi nombre es Luciana Mateo y estoy recientemente graduada en la Tecnicatura Universitaria en Diseño y Animación Digital de la Universidad Siglo 21. Tengo 25 años y estoy entusiasmada por encontrar mi primera experiencia laboral en el campo. Me apasiona crear y dar vida a ideas a través del arte digital, y estoy ansiosa por aplicar mis habilidades y aprender en un entorno profesional.",
         "invitation": "¡Te invito a explorar mis trabajos!"
     },
     "sections": [
@@ -32,6 +32,17 @@
                     ]
                 },
                 {
+                    "name": "Fauna y Contaminación",
+                    "description": "Animación en estilo collage aborda la grave problemática de la contaminación en la fauna. Con una duración breve, cada elemento visual se complementa con efectos de sonido para acentuar el mensaje. Realizada en After Effects, se empleó el plugin Saber para generar impactantes efectos de fuego, simbolizando el peligro que enfrenta nuestro ecosistema. Un llamado urgente a la conciencia ambiental.",
+                    "frontImage": "https://i.imgur.com/Ena90nR.png ",
+                    "content": [
+                        {
+                            "type": "videoLargo",
+                            "url": "https://player.vimeo.com/video/1012549461?h=a9c4a26ce8"
+                        }
+                    ]
+                },               
+                {
                     "name": "Ciclo de caminata + desplazamiento",
                     "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
                     "frontImage": "https://i.imgur.com/d8e82cL.png",
@@ -39,6 +50,17 @@
                         {
                             "type": "video",
                             "url": "https://i.imgur.com/KVdkZqE.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Frutilla Estilo Stop Motion ",
+                    "description": "Esta animación está inspirada en el look del stop motion, usando sombras para separar las capas y darle un poco más de profundidad. Para los movimientos utilicé expresiones como wiggle, lo que le da ese toque orgánico y espontáneo. El estilo general busca un acabado texturizado, como si fuera hecho a mano, para darle una vibra más artesanal y divertida. ",
+                    "frontImage": "https://i.imgur.com/2r7iT3o.gif",
+                    "content": [
+                        {
+                            "type": "image",
+                            "url": "https://i.imgur.com/2r7iT3o.gif"
                         }
                     ]
                 },
@@ -63,18 +85,7 @@
                             "url": "https://i.imgur.com/YTmgzCS.mp4"
                         }
                     ]
-                },
-                {
-                    "name": "Video Intitucional Hospital",
-                    "description": "Proyecto realizado para la materia 'Seminario de prácticas profesionales', elaborado con el software Adobe After Effects. Su propósito es ser un video institucional que presenta las principales áreas, actividades y servicios de Salud Mental que ofrece el Hospital Regional Río Cuarto. Se buscó que la información fuera amena y que tanto los colores, los íconos como la música complementaran el trabajo.",
-                    "frontImage": "https://i.imgur.com/zy7cOGl.png",
-                    "content": [
-                        {
-                            "type": "videoLargo",
-                            "url": "https://player.vimeo.com/video/1002526739?h=fac426df73"
-                        }
-                    ]
-                },
+                },             
                 {
                     "name": "Pedal a fondo",
                     "description": "Para esta animación utilicé After Effects con el fin de mostrar a un ciclista navegando y esquivando ágilmente diversos obstáculos en un entorno urbano. Mi enfoque principal fue desarrollar una animación fluida y dinámica que resaltara la capacidad de contar una pequeña historia a través del movimiento y la interacción del personaje con su entorno, utilizando el formato loop.",
@@ -315,7 +326,7 @@
         "mail": "lucianammateo@gmail.com",
         "linkedin": "www.linkedin.com/in/luciana-mateo",
         "whatsapp": "2616187209",
-        "cv": "https://drive.google.com/file/d/1K8TBDurEgx_3aZhzUUC1occ9T2Mkh_LM/view?usp=sharing",
+        "cv": "https://1drv.ms/b/c/eeb3ee7102904988/EfG8KTD9VdVBqr_JueVpcoIBn0okJA2L0kuuLLEoapSYFg",
         "textMessage": "Enviar",
         "textThanks": "¡Gracias por tu mensaje!"
     }
