@@ -19,18 +19,18 @@
                             "url": "https://i.imgur.com/rFJMfH3.gif"
                         }
                     ]
-                },
+                },       
                 {
-                    "name": "Gimanasio Promo",
-                    "description": "Para este proyecto creé una animación para un gimnasio donde un personaje realiza diversas actividades, aportando diversión y energía. Utilicé curvas de animación para darle fluidez y dinamismo, destacando en una paleta de colores vibrante con rojo como protagonista, que resalta la vitalidad del gimnasio.",
-                    "frontImage": "https://i.imgur.com/KIa9Xhj.png ",                    
+                    "name": "Mobile app Marula",
+                    "description": "Desarrollé una animación dinámica en After Effects para presentar una nueva app móvil, utilizando herramientas 3D para mostrar la interfaz y la experiencia del usuario de manera fluida. Resalté las funcionalidades clave con transiciones suaves y movimientos precisos. Para enriquecer la presentación, integré efectos de sonido y música de fondo, creando una experiencia audiovisual inmersiva.",
+                    "frontImage": "https://i.imgur.com/UYhUBGl.png ",
                     "content": [
                         {
                             "type": "videoLargo",
-                            "url": "https://player.vimeo.com/video/1009303104"
+                            "url": "https://player.vimeo.com/video/1017568362?h=88d1fd0c04 "
                         }
                     ]
-                },
+                },     
                 {
                     "name": "Fauna y Contaminación",
                     "description": "Animación en estilo collage aborda la grave problemática de la contaminación en la fauna. Con una duración breve, cada elemento visual se complementa con efectos de sonido para acentuar el mensaje. Realizada en After Effects, se empleó el plugin Saber para generar impactantes efectos de fuego, simbolizando el peligro que enfrenta nuestro ecosistema. Un llamado urgente a la conciencia ambiental.",
@@ -63,7 +63,7 @@
                             "url": "https://i.imgur.com/2r7iT3o.gif"
                         }
                     ]
-                },
+                },                
                 {
                     "name": "Carrera",
                     "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
@@ -72,6 +72,17 @@
                         {
                             "type": "video",
                             "url": "https://i.imgur.com/xYvhkb7.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gimanasio Promo",
+                    "description": "Para este proyecto creé una animación para un gimnasio donde un personaje realiza diversas actividades, aportando diversión y energía. Utilicé curvas de animación para darle fluidez y dinamismo, destacando en una paleta de colores vibrante con rojo como protagonista, que resalta la vitalidad del gimnasio.",
+                    "frontImage": "https://i.imgur.com/KIa9Xhj.png ",                    
+                    "content": [
+                        {
+                            "type": "videoLargo",
+                            "url": "https://player.vimeo.com/video/1009303104"
                         }
                     ]
                 },
