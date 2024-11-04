@@ -41,17 +41,6 @@
                             "url": "https://player.vimeo.com/video/1012549461?h=a9c4a26ce8"
                         }
                     ]
-                },               
-                {
-                    "name": "Ciclo de caminata + desplazamiento",
-                    "description": "Proyecto personal en After Effects aplicando la teoría de animación para crear un ciclo de caminata. Se utilizó una metodología de lo general a lo particular y expresiones como 'loopIn' y 'loopOut' para bucles. La animación del parpadeo se logró duplicando e intercalando composiciones. Se enfocó en agregar realismo y personalidad al personaje, especialmente con overlapping, y se usaron nulos con direcciones contrarias para el desplazamiento del personaje ",
-                    "frontImage": "https://i.imgur.com/d8e82cL.png",
-                    "content": [
-                        {
-                            "type": "video",
-                            "url": "https://i.imgur.com/KVdkZqE.mp4"
-                        }
-                    ]
                 },
                 {
                     "name": "Frutilla Estilo Stop Motion ",
@@ -74,18 +63,7 @@
                             "url": "https://i.imgur.com/xYvhkb7.mp4"
                         }
                     ]
-                },
-                {
-                    "name": "Gimanasio Promo",
-                    "description": "Para este proyecto creé una animación para un gimnasio donde un personaje realiza diversas actividades, aportando diversión y energía. Utilicé curvas de animación para darle fluidez y dinamismo, destacando en una paleta de colores vibrante con rojo como protagonista, que resalta la vitalidad del gimnasio.",
-                    "frontImage": "https://i.imgur.com/KIa9Xhj.png ",                    
-                    "content": [
-                        {
-                            "type": "videoLargo",
-                            "url": "https://player.vimeo.com/video/1009303104"
-                        }
-                    ]
-                },
+                },                
                 {
                     "name": "Proagile",
                     "description": "Este trabajo lo realicé para una empresa de tecnología. Busqué crear una animación que fuera hipnótica y que captara la atención al inicio del video, para luego presentar la información principal de la compañía y destacar sus características y ubicación, utilizando siempre la paleta de color de la compañía.",
@@ -107,75 +85,75 @@
                             "url": "https://i.imgur.com/1w0Z0eZ.gif"
                         }
                     ]
-                },    
-                {
-                    "name": "Video Promocional Sprite",
-                    "description": "Para este proyecto, creé un pequeño video promocional para la marca Sprite. La idea fue integrar una toma de agua para representar la frescura de la marca de la forma más natural posible. Al inicio, jugué con distintos patrones y efectos rápidos para lograr un buen contraste con el final, que es más pausado y tranquilo",
-                    "frontImage": "https://i.imgur.com/VD5ilse.png",
-                    "content": [
-                        {
-                            "type": "video",
-                            "url": "https://i.imgur.com/UMpqfkZ.mp4"
-                        }
-                    ]
-                }
+                }  
             ]
         },
         {
             "name": "Logos",
-            "projects": [
-                {
-                    "name": "Liquid Logo",
-                    "description": "En esta animación de logo se buscó un movimiento fluido y orgánico que diera la sensación de líquidos, donde las formas dinámicas se mueven de manera armoniosa para llenar la pantalla. Al ser una animación sencilla, se combinó con colores vibrantes y transiciones suaves, creando un efecto visual atractivo y versátil.",
-                    "frontImage": "https://i.imgur.com/a0pZohh.gif",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/a0pZohh.gif"
-                        }
-                    ]
-                },
-                {
-                    "name": "Logo Mermaid",
-                    "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
-                    "frontImage": "https://i.imgur.com/nJLpsPV.gif",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/nJLpsPV.gif"
-                        }
-                    ]
-                },
-                {
-                    "name": "Logo Inmobiliaria",
-                    "description": "Esta animación la realicé para el emprendimiento familiar de venta de propiedades. Busqué un estilo moderno y versátil, manteniendo un diseño limpio. Con un enfoque simple, logré destacar la identidad de la marca y transmitir su mensaje de forma directa y atractiva. ",
-                    "frontImage": "https://i.imgur.com/QKZEDvN.gif",
-                    "content": [
-                        {
-                            "type": "image",
-                            "url": "https://i.imgur.com/QKZEDvN.gif"
-                        }
-                    ]
-                },
+            "projects": [      
                 {
                     "name": "Logo Pastelería Marula",
                     "description": "Este logo lo realicé para un emprendimiento de pastelería familiar. Busqué reflejar el propósito principal, que es la elaboración de tortas personalizadas, resaltando la dedicación y agregando un toque casero en cada creación. También me gustó la idea de hacer un pequeño guiño visual al proceso de decorar tortas. El diseño busca transmitir calidez y creatividad, destacando la pasión por los detalles que hacen cada torta única.",
-                    "frontImage": "https://i.imgur.com/c0VOmVZ.gif",
+                    "frontImage": "https://i.imgur.com/2zgmTY0.png",
                     "content": [
                         {
-                            "type": "image",
-                            "url": "https://i.imgur.com/c0VOmVZ.gif"
+                            "type": "video",
+                            "url": "https://i.imgur.com/f2BvqiG.mp4"
+                        }
+                    ]
+                },     
+                {
+                    "name": "Colorado",
+                    "description": "En esta animación de logos, se busca resaltar la forma principal mediante líneas que siguen su movimiento, complementadas con música de fondo para darle un toque más atractivo.",
+                    "frontImage": "https://i.imgur.com/BOUcHt4.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/Rskk5ws.mp4"
+                        }
+                    ]
+                },     
+                {
+                    "name": "Logo Mermaid",
+                    "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
+                    "frontImage": "https://i.imgur.com/9lCvGpm.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/nJLpsPV.mp4"
                         }
                     ]
                 },
                 {
-                    "name": "Logo Nature",
-                    "description": "El logo está diseñado para capturar la esencia de la naturaleza a través del dinamismo de las hojas. Con el diseño busqué reflejar la naturaleza añadiendo un toque visualmente atractivo y enérgico al logo. Para animar el movimiento de las hojas, se creó un path con la forma deseada y luego se copió en la posición de las hojas, transformando cada nodo en un keyframe de posición.",
-                    "frontImage": "https://i.imgur.com/ja9v5Bs.gif",
+                    "name": "Nererick",
+                    "description": "Animación de logo que combina principalmente texto, fondos y color, creando un aspecto atractivo y dinámico ",
+                    "frontImage": "https://i.imgur.com/QXP9uv0.png",
                     "content": [
                         {
-                            "type": "image",
-                            "url": "https://i.imgur.com/ja9v5Bs.gif"
+                            "type": "video",
+                            "url": "https://i.imgur.com/VgMB1FP.mp4"
+                        }
+                    ]
+                },                
+                {
+                    "name": "Prex",
+                    "description": "Animación de logo enfocada en la formación de su diseño principal a través de las formas que lo componen, complementada con animación de texto y música acorde",
+                    "frontImage": "https://i.imgur.com/1kOBZuZ.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/34U8omR.mp4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tessera",
+                    "description": "Animación de logo con un diseño futurista, jugando con luces y sonidos que realzan la temática",
+                    "frontImage": "https://i.imgur.com/BaCPU88.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/GzEcB0R.mp4"
                         }
                     ]
                 }
