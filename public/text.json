@@ -32,6 +32,17 @@
                     ]
                 },     
                 {
+                    "name": "Abducción extraterrestre",
+                    "description": "Para esta animación utilicé After Effects para crear la ilusión de un entorno tridimensional a partir de elementos 2D. Mi enfoque principal fue resaltar la profundidad y el realismo visual mediante el uso de sombras y luces, logrando una composición que transmite dinamismo y detalle en cada movimiento.",
+                    "frontImage": "https://i.imgur.com/CADjKPQ.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/7Vov7qQ_lq.mp4"
+                        }
+                    ]
+                },
+                {
                     "name": "Fauna y Contaminación",
                     "description": "Animación en estilo collage aborda la grave problemática de la contaminación en la fauna. Con una duración breve, cada elemento visual se complementa con efectos de sonido para acentuar el mensaje. Realizada en After Effects, se empleó el plugin Saber para generar impactantes efectos de fuego, simbolizando el peligro que enfrenta nuestro ecosistema. Un llamado urgente a la conciencia ambiental.",
                     "frontImage": "https://i.imgur.com/Ena90nR.png ",
@@ -41,7 +52,7 @@
                             "url": "https://player.vimeo.com/video/1012549461?h=a9c4a26ce8"
                         }
                     ]
-                },
+                },           
                 {
                     "name": "Frutilla Estilo Stop Motion ",
                     "description": "Esta animación está inspirada en el look del stop motion, usando sombras para separar las capas y darle un poco más de profundidad. Para los movimientos utilicé expresiones como wiggle, lo que le da ese toque orgánico y espontáneo. El estilo general busca un acabado texturizado, como si fuera hecho a mano, para darle una vibra más artesanal y divertida. ",
@@ -315,7 +326,7 @@
         "mail": "lucianammateo@gmail.com",
         "linkedin": "www.linkedin.com/in/luciana-mateo",
         "whatsapp": "2616187209",
-        "cv": "https://drive.google.com/file/d/1-6Dygg7xs2lqtZMLaqF4iU7FenzF_beM/view?usp=sharing",
+        "cv": "https://1drv.ms/b/c/eeb3ee7102904988/EX1p--AdChtJmC-1ne0FbNkB1yd0S9vZUwPE0-D08lS4Vg?e=dszl6T",
         "textMessage": "Enviar",
         "textThanks": "¡Gracias por tu mensaje!"
     }
