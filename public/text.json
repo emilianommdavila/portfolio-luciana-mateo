@@ -12,18 +12,18 @@
                 {
                     "name": "Sin Fin Cafetero",
                     "description": "En este proyecto, tuve el objetivo de crear una animación en bucle que se destacara al no mostrar un inicio o fin perceptible. Utilicé Adobe After Effects y jugué con las capas 3D para añadir profundidad y complejidad visual. El resultado me dejó muy conforme, ya que se aprecia una animación fluida y continua que simula un efecto de infinito, destacando la ilusión de un ciclo sin fin.",
-                    "frontImage": "https://i.imgur.com/rFJMfH3.gif",
+                    "frontImage": "https://i.imgur.com/FSs3xkw.png",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/rFJMfH3.gif"
+                            "url": "https://i.imgur.com/1NjDApc.gif"
                         }
                     ]
                 },       
                 {
                     "name": "Mobile app Marula",
                     "description": "Desarrollé una animación dinámica en After Effects para presentar una nueva app móvil, utilizando herramientas 3D para mostrar la interfaz y la experiencia del usuario de manera fluida. Resalté las funcionalidades clave con transiciones suaves y movimientos precisos. Para enriquecer la presentación, integré efectos de sonido y música de fondo, creando una experiencia audiovisual inmersiva.",
-                    "frontImage": "https://i.imgur.com/UYhUBGl.png ",
+                    "frontImage": "https://i.imgur.com/KuuVFDK.png",
                     "content": [
                         {
                             "type": "videoLargo",
@@ -34,18 +34,18 @@
                 {
                     "name": "Abducción extraterrestre",
                     "description": "Para esta animación utilicé After Effects para crear la ilusión de un entorno tridimensional a partir de elementos 2D. Mi enfoque principal fue resaltar la profundidad y el realismo visual mediante el uso de sombras y luces, logrando una composición que transmite dinamismo y detalle en cada movimiento.",
-                    "frontImage": "https://i.imgur.com/CADjKPQ.png",
+                    "frontImage": "https://i.imgur.com/E3IH8Xn.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/7Vov7qQ_lq.mp4"
+                            "url": "https://i.imgur.com/o07wawb.mp4"
                         }
                     ]
                 },
                 {
                     "name": "Fauna y Contaminación",
                     "description": "Animación en estilo collage aborda la grave problemática de la contaminación en la fauna. Con una duración breve, cada elemento visual se complementa con efectos de sonido para acentuar el mensaje. Realizada en After Effects, se empleó el plugin Saber para generar impactantes efectos de fuego, simbolizando el peligro que enfrenta nuestro ecosistema. Un llamado urgente a la conciencia ambiental.",
-                    "frontImage": "https://i.imgur.com/Ena90nR.png ",
+                    "frontImage": "https://i.imgur.com/Ena90nR.png",
                     "content": [
                         {
                             "type": "videoLargo",
@@ -63,37 +63,51 @@
                             "url": "https://i.imgur.com/2r7iT3o.gif"
                         }
                     ]
-                },                
+                },     
+                
+
                 {
-                    "name": "Carrera",
-                    "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
-                    "frontImage": "https://i.imgur.com/e963TTw.png",
+                    "name": "Cervezas Mochi Mochi",
+                    "description": "Usando una marca de cervezas con una estética única, realicé un diseño que incluye un post adaptable al formato de historias para plataformas como Instagram, junto con un GIF sencillo que complementa la identidad visual. Busqué mantener coherencia en la energía de las animaciones, asegurándome de que todas transmitieran un estilo dinámico y divertido. Para las animaciones, utilicé assets de las latas, integrándolos de manera creativa en cada pieza.",
+                    "frontImage": "https://i.imgur.com/DIlaGY9.jpeg",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/xYvhkb7.mp4"
+                            "url": "https://i.imgur.com/SAUvEPM.mp4"
+                        }                    
+                    ]
+                }, 
+                
+                {
+                    "name": "Carrera",
+                    "description": "Este proyecto en 2D, desarrollado con el software After Effects, se enfocó en la manipulación del gráfico de curvas para lograr una animación fluida y realista. Se agregó personalidad a la pelota mediante expresiones faciales que evolucionan a lo largo de la animación, enfatizando el carácter de la misma. Además, se aplicó el principio de exageración para otorgarle una estética caricaturesca, asegurando un impacto visual distintivo.",
+                    "frontImage": "https://i.imgur.com/du77k6v.png",
+                    "content": [
+                        {
+                            "type": "video",
+                            "url": "https://i.imgur.com/mMhSM87.mp4"
                         }
                     ]
                 },                
                 {
                     "name": "Proagile",
                     "description": "Este trabajo lo realicé para una empresa de tecnología. Busqué crear una animación que fuera hipnótica y que captara la atención al inicio del video, para luego presentar la información principal de la compañía y destacar sus características y ubicación, utilizando siempre la paleta de color de la compañía.",
-                    "frontImage": "https://i.imgur.com/jbJDjC5.png",
+                    "frontImage": "https://i.imgur.com/B0QVUcx.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/YTmgzCS.mp4"
+                            "url": "https://i.imgur.com/qhei1Bg.mp4"
                         }
                     ]
                 },             
                 {
                     "name": "Pedal a fondo",
                     "description": "Para esta animación utilicé After Effects con el fin de mostrar a un ciclista navegando y esquivando ágilmente diversos obstáculos en un entorno urbano. Mi enfoque principal fue desarrollar una animación fluida y dinámica que resaltara la capacidad de contar una pequeña historia a través del movimiento y la interacción del personaje con su entorno, utilizando el formato loop.",
-                    "frontImage": "https://i.imgur.com/1w0Z0eZ.gif",
+                    "frontImage": "https://i.imgur.com/Jw9zWkC.gif",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/1w0Z0eZ.gif"
+                            "url": "https://i.imgur.com/Jw9zWkC.gif"
                         }
                     ]
                 }  
@@ -105,11 +119,11 @@
                 {
                     "name": "Logo Pastelería Marula",
                     "description": "Este logo lo realicé para un emprendimiento de pastelería familiar. Busqué reflejar el propósito principal, que es la elaboración de tortas personalizadas, resaltando la dedicación y agregando un toque casero en cada creación. También me gustó la idea de hacer un pequeño guiño visual al proceso de decorar tortas. El diseño busca transmitir calidez y creatividad, destacando la pasión por los detalles que hacen cada torta única.",
-                    "frontImage": "https://i.imgur.com/2zgmTY0.png",
+                    "frontImage": "https://i.imgur.com/7m0engg.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/f2BvqiG.mp4"
+                            "url": "https://i.imgur.com/VjnvWpK.mp4"
                         }
                     ]
                 },     
@@ -127,44 +141,44 @@
                 {
                     "name": "Logo Mermaid",
                     "description": "En este proyecto, utilicé el software After Effects para crear una animación vibrante y dinámica. A través de la combinación de colores y sonidos, busco dar vida a un logo inspirado en el mar. ",
-                    "frontImage": "https://i.imgur.com/9lCvGpm.png",
+                    "frontImage": "https://i.imgur.com/NQeD8Cj.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/nJLpsPV.mp4"
+                            "url": "https://i.imgur.com/lyrYaSJ.mp4"
                         }
                     ]
                 },
                 {
-                    "name": "Nererick",
+                    "name": "Naverick",
                     "description": "Animación de logo que combina principalmente texto, fondos y color, creando un aspecto atractivo y dinámico ",
-                    "frontImage": "https://i.imgur.com/QXP9uv0.png",
+                    "frontImage": "https://i.imgur.com/7MaFrar.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/VgMB1FP.mp4"
+                            "url": "https://i.imgur.com/H0Uhppq.mp4"
                         }
                     ]
                 },                
                 {
                     "name": "Prex",
                     "description": "Animación de logo enfocada en la formación de su diseño principal a través de las formas que lo componen, complementada con animación de texto y música acorde",
-                    "frontImage": "https://i.imgur.com/1kOBZuZ.png",
+                    "frontImage": "https://i.imgur.com/spTrdFk.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/34U8omR.mp4"
+                            "url": "https://i.imgur.com/BOp9KOT.mp4"
                         }
                     ]
                 },
                 {
                     "name": "Tessera",
                     "description": "Animación de logo con un diseño futurista, jugando con luces y sonidos que realzan la temática",
-                    "frontImage": "https://i.imgur.com/BaCPU88.png",
+                    "frontImage": "https://i.imgur.com/miOTIVh.png",
                     "content": [
                         {
                             "type": "video",
-                            "url": "https://i.imgur.com/GzEcB0R.mp4"
+                            "url": "https://i.imgur.com/W5rtw3V.mp4"
                         }
                     ]
                 }
@@ -176,64 +190,64 @@
                 {
                     "name": "Robot",
                     "description": "Proyecto desarrollado en Autodesk Maya como parte de la materia de Modelado 3D, se basó en el uso de blueprints como guía. Construido a partir de formas primitivas y prestando especial atención a los detalles, el objetivo principal fue lograr un modelado low poly.",
-                    "frontImage": "https://i.imgur.com/OKv0jmB.jpeg",
+                    "frontImage": "https://i.imgur.com/cF8kYZn.jpeg",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/OKv0jmB.jpeg"
+                            "url": "https://i.imgur.com/cF8kYZn.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/4qqxpfS.jpeg"
+                            "url": "https://i.imgur.com/gM23mFs.jpeg"
                         }
                     ]
                 },
                 {
                     "name": "Habitación isométrica Maya",
                     "description": "Proyecto elaborado con Autodesk Maya y construido a partir de formas primitivas, se centra en el perfeccionamiento de detalles para lograr una composición realista y completa. Se dedicó especial atención a la ventana y la iluminación, buscando crear una sutil sombra sobre la alfombra. Además, se incorporó una 'área light' en la pantalla de la computadora para simular su encendido y generar una ilusión de luz propia.",
-                    "frontImage": "https://i.imgur.com/gFa7sy8.jpeg",
+                    "frontImage": "https://i.imgur.com/GbEAvlm.jpeg",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/gFa7sy8.jpeg"
+                            "url": "https://i.imgur.com/GbEAvlm.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/X57rTM9.png"
+                            "url": "https://i.imgur.com/C2bOYiR.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/gWnsY15.jpeg"
+                            "url": "https://i.imgur.com/StoktXh.jpeg"
                         }
                     ]
                 },
                 {
                     "name": "Cabaña Nocturna bajo la Nieve",
                     "description": "En este proyecto realizado en Blender, mi objetivo fue explorar y experimentar con la atmósfera de una noche nevada a través de una cabaña iluminada cálidamente. Me enfoqué en destacar el contraste entre el frío del exterior y la acogedora calidez del interior. Más que solo perfeccionar mis habilidades técnicas en Blender, mi intención fue transmitir la calidez y la serenidad de una noche nevada a través del arte digital.",
-                    "frontImage": "https://i.imgur.com/bipICbJ.gif",
+                    "frontImage": "https://i.imgur.com/FpkePZ5.png",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/bipICbJ.gif"
+                            "url": "https://i.imgur.com/NG9wPav.gif"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/cHjnSR4.png"
+                            "url": "https://i.imgur.com/DeszQjs.png"
                         }
                     ]
                 },
                 {
                     "name": "Tostadora Animada",
                     "description": "Este proyecto, desarrollado con Blender, se inspiró en el estilo cartoon y se centró en la anticipación del movimiento de un objeto común con una acción singular: una tostadora antes de saltar. Experimenté con técnicas de iluminación para resaltar las texturas metálicas y profundizar la escena. El objetivo fue crear una animación dinámica integrando principios de animación para dar vida a una tostadora en un entorno divertido y estilizado.",
-                    "frontImage": "https://i.imgur.com/YXoJaH8.gif",
-                    "content": [
+                    "frontImage": "https://i.imgur.com/aFnXNMy.png",
+                    "content": [                    
                         {
-                            "type": "image",
-                            "url": "https://i.imgur.com/YXoJaH8.gif"
+                            "type": "video",
+                            "url": "https://i.imgur.com/tVWwFCI.mp4"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/J8AuBKz.png"
+                            "url": "https://i.imgur.com/7icAYYR.png"
                         }
                     ]
                 },
@@ -259,19 +273,19 @@
                 {
                     "name": "Patito 'Peep'",
                     "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system para la creación del pasto usando una textura como base. Para la iluminación se utilizaron area lights y una imagen HDRi buscando dar naturalidad a la escena, también se realizó una serie de combinaciones de nodos para crear el efecto de nubes de tormenta. Respecto al personaje se buscó que tuviera características cartoon y un acabado muy suavizado.",
-                    "frontImage": "https://i.imgur.com/7rE79it.jpeg",
+                    "frontImage": "https://i.imgur.com/6g7fPVv.jpeg",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/7rE79it.jpeg"
+                            "url": "https://i.imgur.com/RbJvnkD.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/JacFoby.png"
+                            "url": "https://i.imgur.com/FAbLIT8.png "
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/va6Ee5Z.jpeg"
+                            "url": "https://i.imgur.com/6g7fPVv.jpeg"
                         }
                     ]
                 },
