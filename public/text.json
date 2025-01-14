@@ -45,7 +45,7 @@
                 {
                     "name": "Fauna y Contaminación",
                     "description": "Animación en estilo collage aborda la grave problemática de la contaminación en la fauna. Con una duración breve, cada elemento visual se complementa con efectos de sonido para acentuar el mensaje. Realizada en After Effects, se empleó el plugin Saber para generar impactantes efectos de fuego, simbolizando el peligro que enfrenta nuestro ecosistema. Un llamado urgente a la conciencia ambiental.",
-                    "frontImage": "https://i.imgur.com/Ena90nR.png",
+                    "frontImage": "https://i.imgur.com/uGi3ZuL.png",
                     "content": [
                         {
                             "type": "videoLargo",
@@ -254,19 +254,19 @@
                 {
                     "name": "Composición Mini Living",
                     "description": "Proyecto realizado con Blender, diseñado para explorar y mejorar la simulación de telas y colisiones con miras a implementaciones futuras. El énfasis se puso en la creación de sombras y contrastes mediante la disposición de luces desde diferentes ángulos. Además, se experimentó con diversas texturas para destacar y diferenciar la mesa y el suelo dentro de la escena.",
-                    "frontImage": "https://i.imgur.com/gyBuTPZ.png",
+                    "frontImage": "https://i.imgur.com/gfCRrGg.png",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/gyBuTPZ.png"
+                            "url": "https://i.imgur.com/gfCRrGg.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/g61Dbcp.png"
+                            "url": "https://i.imgur.com/dyASuva.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/gUBkiRJ.png"
+                            "url": "https://i.imgur.com/MUx0UNY.png"
                         }
                     ]
                 },
@@ -292,34 +292,34 @@
                 {
                     "name": "Osito 'Teddy'",
                     "description": "Proyecto de diseño de personaje realizado con el software Blender. Se utilizó Particle system con una textura como base para la creación del pasto, también se realizaron combinaciones de nodos para lograr un buen acabado en las nubes del proyecto. Respecto a la iluminación se buscó algo natural utilizando como base con una imagen HDRI y luego se utilizaron area lights para enfatizar rasgos del personaje. Para el fondo empezó con una curva para hacer el tronco de los árboles y para las copas del mismo cubo con pocas subdivisiones, se buscaba lograr un contraste entre el acabado más suavizado del personaje y un modelado más low poly con los árboles del fondo.",
-                    "frontImage": "https://i.imgur.com/qV7QBEN.jpeg",
+                    "frontImage": "https://i.imgur.com/aiOOied.jpeg",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/qV7QBEN.jpeg"
+                            "url": "https://i.imgur.com/aiOOied.jpeg"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/ON3WVDO.png"
+                            "url": "https://i.imgur.com/Yp8UFgh.png"
                         }
                     ]
                 },
                 {
                     "name": "Zorrito 'Rusty'",
                     "description": "Proyecto de diseño de personaje realizado con el software Blender 3D. Se buscó un acabado cartoon con un fondo neutro para que realizara el personaje. En la creación del mismo se mezclaron tanto figuras geométricas básicas como curvas, por ejemplo en la boca, para que dichos rasgos fueran más fáciles de ejecutar. ",
-                    "frontImage": "https://i.imgur.com/piH2o9D.png",
+                    "frontImage": "https://i.imgur.com/ubFllbe.png",
                     "content": [
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/piH2o9D.png"
+                            "url": "https://i.imgur.com/ubFllbe.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/ER2Mg9T.png"
+                            "url": "https://i.imgur.com/ma3L2JF.png"
                         },
                         {
                             "type": "image",
-                            "url": "https://i.imgur.com/AsBqDuT.png"
+                            "url": "https://i.imgur.com/RvzzfCf.png"
                         }
                     ]
                 }
